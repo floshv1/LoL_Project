@@ -137,8 +137,24 @@ def show_team_randomizer_page():
     clear_frame()
     menu_command()
 
-    title_label = tk.Label(root, text="Random Champion Selector", font=("Helvetica", 22), bd=2, relief="solid", padx=10, pady=5)
+    title_label = tk.Label(root, text="Random Team Champions", font=("Helvetica", 16))
     title_label.pack(pady=10)
+
+    # Filter type dropdown
+    filter_type_label = tk.Label(root, text="Filter by:", font=("Helvetica", 12))
+    filter_type_label.pack(pady=5)
+
+    global filter_var
+    filter_var = tk.StringVar()
+    filter_var.set("None")
+
+    filter_type_dropdown = tk.OptionMenu(root, filter_var, "None", "Region", "Damage Type", "Range", command=update_filter_options)
+    filter_type_dropdown.pack(pady=5)
+
+    # Frame for the filter-specific dropdown (region, damage type, range)
+    global filter_options_frame
+    filter_options_frame = tk.Frame(root)
+    filter_options_frame.pack(pady=10)
 
     pick_button = tk.Button(root, text="Pick Random Team", command=pick_random_team)
     pick_button.pack(pady=10)
@@ -148,20 +164,18 @@ def show_team_randomizer_page():
     champ_labels = {}
     champ_icon_labels = {}
     reroll_buttons = {}
-    reroll_flags = {role: False for role in roles}  # Track if reroll has been used
+    reroll_flags = {role: False for role in roles}
 
-    # Create a horizontal frame to align all roles in one line
+    # Create horizontal layout for roles
     team_frame = tk.Frame(root)
     team_frame.pack(pady=10)
 
-    # Create labels, icons, and buttons for each role
     for role in roles:
-        # Create a frame for each role's elements (in a vertical stack)
         role_frame = tk.Frame(team_frame)
-        role_frame.pack(side="left", padx=20)  # Add some space between each role
+        role_frame.pack(side="left", padx=20)
 
         # Role title above the icon
-        role_label = tk.Label(role_frame, text=f"{role} :", font=("Helvetica", 14))
+        role_label = tk.Label(role_frame, text=f"{role}:", font=("Helvetica", 14))
         role_label.pack(pady=5)
 
         # Champion icon label
@@ -169,30 +183,116 @@ def show_team_randomizer_page():
         champ_icon_labels[role].pack(pady=5)
 
         # Champion name label
-        champ_labels[role] = tk.Label(role_frame, text=f"Champion", font=("Helvetica", 12))
+        champ_labels[role] = tk.Label(role_frame, text=f"Champion: ", font=("Helvetica", 12))
         champ_labels[role].pack(pady=5)
 
         # Reroll button under the name
         reroll_buttons[role] = tk.Button(role_frame, text="Reroll", command=lambda r=role: reroll_champion(r))
         reroll_buttons[role].pack(pady=5)
 
-# Pick a random champion for each role and display their icon, name, and reroll button
+# Update the filter options based on the selected filter type
+def update_filter_options(selected_filter):
+    # Clear the filter options frame
+    for widget in filter_options_frame.winfo_children():
+        widget.destroy()
+
+    global specific_filter_var
+    specific_filter_var = tk.StringVar()
+
+    if selected_filter == "Region":
+        specific_filter_var.set("All")
+        filter_options = ["All", 'Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', 'Mount Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun']
+    elif selected_filter == "Damage Type":
+        specific_filter_var.set("All")
+        filter_options = ["All", "Physical", "Magic"]
+    elif selected_filter == "Range":
+        specific_filter_var.set("All")
+        filter_options = ["All", "Melee", "Ranged"]
+    else:
+        return
+
+    filter_dropdown = tk.OptionMenu(filter_options_frame, specific_filter_var, *filter_options)
+    filter_dropdown.pack()
+
+# Function to find regions with at least one champion in each role
+def find_valid_regions(champion_data, roles):
+    valid_regions = []
+
+    for region in ['Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', 
+                   'Mount Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun']:
+        region_valid = True
+        for role in roles:
+            champions_in_role = filter_champions_role(champion_data, role)
+            if not any(region in champion['regions'] for champion in champions_in_role):
+                region_valid = False
+                break
+        if region_valid:
+            valid_regions.append(region)
+
+    return valid_regions
+
+# Update the filter options based on the selected filter type
+def update_filter_options(selected_filter):
+    # Clear the filter options frame
+    for widget in filter_options_frame.winfo_children():
+        widget.destroy()
+
+    global specific_filter_var
+    specific_filter_var = tk.StringVar()
+
+    if selected_filter == "Region":
+        # Get valid regions with champions in all roles
+        valid_regions = find_valid_regions(champion_data, roles)
+        specific_filter_var.set("All")
+        filter_options = ["All"] + valid_regions  # Add 'All' option to select from all champions
+    elif selected_filter == "Damage Type":
+        specific_filter_var.set("All")
+        filter_options = ["All", "Physical", "Magic"]
+    elif selected_filter == "Range":
+        specific_filter_var.set("All")
+        filter_options = ["All", "Melee", "Ranged"]
+    else:
+        return
+
+    filter_dropdown = tk.OptionMenu(filter_options_frame, specific_filter_var, *filter_options)
+    filter_dropdown.pack()
+
+import random
+
 def pick_random_team():
     global picked_champions
     picked_champions = {}
 
+    filter_type = filter_var.get()
+    specific_filter = specific_filter_var.get()
+
     for role in roles:
         champions = filter_champions_role(champion_data, role)
+
+        # Apply the selected filter
+        if filter_type == "Region" and specific_filter != "All":
+            champions = [champion for champion in champions if specific_filter in champion['regions']]
+        elif filter_type == "Damage Type" and specific_filter != "All":
+            champions = [champion for champion in champions if champion['adap_type'] == specific_filter]
+        elif filter_type == "Range" and specific_filter != "All":
+            champions = [champion for champion in champions if champion['range'] == specific_filter]
+
         random_champion = get_random_champion(champions)
         picked_champions[role] = random_champion
 
-        # Update the champion's name
+        # Update the champion's name and icon
         champ_labels[role].config(text=f"{random_champion['name']}")
-
-        # Display the champion's icon
         display_champion_icon(random_champion['icon_url'], champ_icon_labels[role])
 
-        reroll_flags[role] = False  # Reset reroll flags
+        reroll_flags[role] = False
+
+
+
+# Filter champions based on role
+def filter_champions_role(champion_data, role):
+    if role == 'All':
+        return champion_data
+    return [champion for champion in champion_data if role in champion['positions']]
 
 # Reroll the champion for a specific role (only once)
 def reroll_champion(role):
