@@ -1,0 +1,4919 @@
+[
+    {
+        "name": "Aatrox",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Aatrox_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20180612203801",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Runeterra",
+            "Shurima"
+        ],
+        "skins": [
+            "Original Aatrox",
+            "Justicar Aatrox",
+            "Mecha Aatrox",
+            "Sea Hunter Aatrox",
+            "Blood Moon Aatrox",
+            "Odyssey Aatrox",
+            "Lunar Eclipse Aatrox",
+            "Primordian Aatrox",
+            "DRX Aatrox",
+            "Prestige Blood Moon Aatrox",
+            "Victorious Aatrox",
+            "Prestige Blood Moon Aatrox (2022)",
+            "Prestige DRX Aatrox"
+        ]
+    },
+    {
+        "name": "Ahri",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2a/Ahri_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20230201172235",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Ahri",
+            "Dynasty Ahri",
+            "Midnight Ahri",
+            "Foxfire Ahri",
+            "Popstar Ahri",
+            "Academy Ahri",
+            "Arcade Ahri",
+            "Star Guardian Ahri",
+            "K/DA Ahri",
+            "Elderwood Ahri",
+            "Spirit Blossom Ahri",
+            "K/DA ALL OUT Ahri",
+            "Coven Ahri",
+            "Arcana Ahri",
+            "Snow Moon Ahri",
+            "Challenger Ahri",
+            "Prestige K/DA Ahri",
+            "Prestige K/DA Ahri (2022)",
+            "Risen Legend Ahri",
+            "Immortalized Legend Ahri"
+        ]
+    },
+    {
+        "name": "Akali",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6a/Akali_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20180726202056",
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "classes": [],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Akali",
+            "Nurse Akali",
+            "Blood Moon Akali",
+            "Silverfang Akali",
+            "Headhunter Akali",
+            "Sashimi Akali",
+            "K/DA Akali",
+            "PROJECT: Akali",
+            "True Damage Akali",
+            "K/DA ALL OUT Akali",
+            "Crime City Nightmare Akali",
+            "Star Guardian Akali",
+            "Coven Akali",
+            "Empyrean Akali",
+            "Stinger Akali",
+            "Infernal Akali",
+            "All-star Akali",
+            "DRX Akali",
+            "Prestige K/DA Akali",
+            "Prestige K/DA Akali (2022)",
+            "Prestige Coven Akali"
+        ]
+    },
+    {
+        "name": "Akshan",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Akshan_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20210707203330",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Akshan",
+            "Cyber Pop Akshan",
+            "Crystal Rose Akshan",
+            "Three Honors Akshan"
+        ]
+    },
+    {
+        "name": "Alistar",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Alistar_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20221122024814",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Alistar",
+            "Golden Alistar",
+            "Infernal Alistar",
+            "Marauder Alistar",
+            "Moo Cow Alistar",
+            "Blackfrost Alistar",
+            "Matador Alistar",
+            "Longhorn Alistar",
+            "Sweeper Alistar",
+            "SKT T1 Alistar",
+            "Conqueror Alistar",
+            "Lunar Beast Alistar",
+            "Black Alistar",
+            "Unchained Alistar",
+            "Hextech Alistar"
+        ]
+    },
+    {
+        "name": "Amumu",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Amumu_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402215322",
+        "positions": [
+            "Jungle",
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Amumu",
+            "Emumu",
+            "Little Knight Amumu",
+            "Sad Robot Amumu",
+            "Surprise Party Amumu",
+            "Infernal Amumu",
+            "Porcelain Amumu",
+            "Heartache Amumu",
+            "Pharaoh Amumu",
+            "Vancouver Amumu",
+            "Re-Gifted Amumu",
+            "Almost-Prom King Amumu",
+            "Pumpkin Prince Amumu",
+            "Hextech Amumu",
+            "Sewn Chaos Amumu"
+        ]
+    },
+    {
+        "name": "Anivia",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Anivia_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20151218185051",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Anivia",
+            "Bird of Prey Anivia",
+            "Blackfrost Anivia",
+            "Prehistoric Anivia",
+            "Festival Queen Anivia",
+            "Papercraft Anivia",
+            "Cosmic Flight Anivia",
+            "Divine Phoenix Anivia",
+            "Team Spirit Anivia",
+            "Noxus Hunter Anivia",
+            "Hextech Anivia",
+            "Bewitching Batnivia",
+            "Victorious Anivia"
+        ]
+    },
+    {
+        "name": "Annie",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/18/Annie_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150404100758",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Annie",
+            "Frostfire Annie",
+            "Reverse Annie",
+            "Panda Annie",
+            "Super Galaxy Annie",
+            "Cafe Cuties Annie",
+            "Fright Night Annie",
+            "Winterblessed Annie",
+            "Battle Princess Annie",
+            "Red Riding Annie",
+            "Annie in Wonderland",
+            "Prom Queen Annie",
+            "FrankenTibbers Annie",
+            "Sweetheart Annie",
+            "Lunar Beast Annie",
+            "Goth Annie",
+            "Hextech Annie",
+            "Annie-Versary"
+        ]
+    },
+    {
+        "name": "Aphelios",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/92/Aphelios_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20200304070938",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [],
+        "skins": [
+            "Original Aphelios",
+            "Nightbringer Aphelios",
+            "Spirit Blossom Aphelios",
+            "HEARTSTEEL Aphelios",
+            "Lunar Beast Aphelios",
+            "EDG Aphelios"
+        ]
+    },
+    {
+        "name": "Ashe",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Ashe_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402215403",
+        "positions": [
+            "Bottom",
+            "Support"
+        ],
+        "classes": [
+            "Marksman",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Ashe",
+            "Sherwood Forest Ashe",
+            "Woad Ashe",
+            "Amethyst Ashe",
+            "Marauder Ashe",
+            "PROJECT: Ashe",
+            "Cosmic Queen Ashe",
+            "High Noon Ashe",
+            "Fae Dragon Ashe",
+            "Coven Ashe",
+            "Ocean Song Ashe",
+            "Lunar Empress Ashe",
+            "Infernal Ashe",
+            "Freljord Ashe",
+            "Queen Ashe",
+            "Heartseeker Ashe",
+            "Worlds 2017 Ashe",
+            "DRX Ashe",
+            "Crystalis Motus Ashe"
+        ]
+    },
+    {
+        "name": "Aurelion Sol",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/63/Aurelion_Sol_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160308215107",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Aurelion Sol",
+            "Ashen Lord Aurelion Sol",
+            "Mecha Aurelion Sol",
+            "Storm Dragon Aurelion Sol",
+            "Inkshadow Aurelion Sol",
+            "Porcelain Protector Aurelion Sol"
+        ]
+    },
+    {
+        "name": "Aurora",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/99/Aurora_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20240626040504",
+        "positions": [
+            "Middle",
+            "Top"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Aurora",
+            "Battle Bunny Aurora"
+        ]
+    },
+    {
+        "name": "Azir",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Azir_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402215409",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Azir",
+            "Galactic Azir",
+            "Gravelord Azir",
+            "Elderwood Azir",
+            "Attorney Azir",
+            "SKT T1 Azir",
+            "Warring Kingdoms Azir",
+            "Worlds 2022 Azir"
+        ]
+    },
+    {
+        "name": "Bard",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Bard_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402215420",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Bard",
+            "Elderwood Bard",
+            "Snow Day Bard",
+            "Bard Bard",
+            "Astronaut Bard",
+            "Cafe Cuties Bard",
+            "Shan Hai Scrolls Bard",
+            "T1 Bard"
+        ]
+    },
+    {
+        "name": "Bel'Veth",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e7/Bel%27Veth_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20220525195325",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Bel'Veth",
+            "Battle Boss Bel'Veth",
+            "Cosmic Matriarch Bel'Veth",
+            "Primordian Bel'Veth"
+        ]
+    },
+    {
+        "name": "Blitzcrank",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ac/Blitzcrank_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402215457",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Blitzcrank",
+            "Boom Boom Blitzcrank",
+            "Piltover Customs Blitzcrank",
+            "iBlitzcrank",
+            "Battle Boss Blitzcrank",
+            "Lancer Rogue Blitzcrank",
+            "Lancer Paragon Blitzcrank",
+            "Space Groove Blitz & Crank",
+            "Zenith Games Blitzcrank",
+            "Beezcrank",
+            "Goalkeeper Blitzcrank",
+            "Definitely Not Blitzcrank",
+            "Riot Blitzcrank",
+            "Witch's Brew Blitzcrank",
+            "Rusty Blitzcrank",
+            "Victorious Blitzcrank",
+            "Sewn Chaos Blitzcrank"
+        ]
+    },
+    {
+        "name": "Brand",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Brand_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402215533",
+        "positions": [
+            "Jungle",
+            "Support",
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Brand",
+            "Apocalyptic Brand",
+            "Cryocore Brand",
+            "Spirit Fire Brand",
+            "Battle Boss Brand",
+            "Arclight Brand",
+            "Eternal Dragon Brand",
+            "Debonair Brand",
+            "Street Demons Brand",
+            "Empyrean Brand",
+            "Vandal Brand",
+            "Zombie Brand",
+            "Prestige Debonair Brand"
+        ]
+    },
+    {
+        "name": "Braum",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Braum_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402215539",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Braum",
+            "Dragonslayer Braum",
+            "El Tigre Braum",
+            "Braum Lionheart",
+            "Crime City Braum",
+            "Sugar Rush Braum",
+            "Pool Party Braum",
+            "Santa Braum"
+        ]
+    },
+    {
+        "name": "Briar",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f6/Briar_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20230904203032",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Briar",
+            "Street Demons Briar",
+            "Primordian Briar"
+        ]
+    },
+    {
+        "name": "Caitlyn",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Caitlyn_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20230215152459",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Piltover"
+        ],
+        "skins": [
+            "Original Caitlyn",
+            "Resistance Caitlyn",
+            "Arctic Warfare Caitlyn",
+            "Officer Caitlyn",
+            "Headhunter Caitlyn",
+            "Pulsefire Caitlyn",
+            "Pool Party Caitlyn",
+            "Arcade Caitlyn",
+            "Battle Academia Caitlyn",
+            "Arcane Caitlyn",
+            "Snow Moon Caitlyn",
+            "Heartthrob Caitlyn",
+            "Sheriff Caitlyn",
+            "Safari Caitlyn",
+            "Lunar Wraith Caitlyn",
+            "DRX Caitlyn",
+            "Prestige Arcade Caitlyn",
+            "Prestige Arcade Caitlyn (2022)"
+        ]
+    },
+    {
+        "name": "Camille",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Camille_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170217185322",
+        "positions": [
+            "Top",
+            "Support"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Piltover"
+        ],
+        "skins": [
+            "Original Camille",
+            "Program Camille",
+            "Coven Camille",
+            "Arcana Camille",
+            "Strike Commander Camille",
+            "Winterblessed Camille",
+            "iG Camille",
+            "Prestige Winterblessed Camille"
+        ]
+    },
+    {
+        "name": "Cassiopeia",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Cassiopeia_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402215553",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Cassiopeia",
+            "Desperada Cassiopeia",
+            "Siren Cassiopeia",
+            "Mythic Cassiopeia",
+            "Jade Fang Cassiopeia",
+            "Eternum Cassiopeia",
+            "Spirit Blossom Cassiopeia",
+            "Coven Cassiopeia",
+            "Bewitching Cassiopeia"
+        ]
+    },
+    {
+        "name": "Cho'Gath",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Cho%27Gath_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402215703",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Tank",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [],
+        "skins": [
+            "Original Cho'Gath",
+            "Gentleman Cho'Gath",
+            "Jurassic Cho'Gath",
+            "Battlecast Prime Cho'Gath",
+            "Prehistoric Cho'Gath",
+            "Shan Hai Scrolls Cho'Gath",
+            "Broken Covenant Cho'Gath",
+            "Toy Terror Cho'Gath",
+            "Nightmare Cho'Gath",
+            "Loch Ness Cho'Gath",
+            "Dark Star Cho'Gath"
+        ]
+    },
+    {
+        "name": "Corki",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b2/Corki_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160629191728",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Bandle City"
+        ],
+        "skins": [
+            "Original Corki",
+            "Urfrider Corki",
+            "Dragonwing Corki",
+            "Arcade Corki",
+            "Corgi Corki",
+            "Astronaut Corki",
+            "Ice Toboggan Corki",
+            "Red Baron Corki",
+            "Hot Rod Corki",
+            "Fnatic Corki",
+            "UFO Corki"
+        ]
+    },
+    {
+        "name": "Darius",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/59/Darius_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160412191052",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Darius",
+            "Lord Darius",
+            "Bioforge Darius",
+            "Woad King Darius",
+            "Dunkmaster Darius",
+            "Academy Darius",
+            "God-King Darius",
+            "High Noon Darius",
+            "Crime City Nightmare Darius",
+            "Spirit Blossom Darius",
+            "Porcelain Darius",
+            "Lunar Beast Darius",
+            "Dreadnova Darius",
+            "Divine God-King Darius"
+        ]
+    },
+    {
+        "name": "Diana",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Diana_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526212149",
+        "positions": [
+            "Jungle",
+            "Middle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [],
+        "skins": [
+            "Original Diana",
+            "Dark Valkyrie Diana",
+            "Lunar Goddess Diana",
+            "Infernal Diana",
+            "Blood Moon Diana",
+            "Dark Waters Diana",
+            "Dragonslayer Diana",
+            "Battle Queen Diana",
+            "Sentinel Diana",
+            "Winterblessed Diana",
+            "Firecracker Diana",
+            "Heavenscale Diana",
+            "Prestige Battle Queen Diana"
+        ]
+    },
+    {
+        "name": "Dr. Mundo",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Dr._Mundo_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20210526185145",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Dr. Mundo",
+            "Corporate Mundo",
+            "Rageborn Mundo",
+            "Pool Party Mundo",
+            "El Macho Mundo",
+            "Street Demons Dr. Mundo",
+            "Toxic Dr. Mundo",
+            "Mr. Mundoverse",
+            "Mundo Mundo",
+            "Executioner Mundo",
+            "TPA Mundo",
+            "Frozen Prince Mundo"
+        ]
+    },
+    {
+        "name": "Draven",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f2/Draven_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526212252",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Draven",
+            "Soul Reaver Draven",
+            "Gladiator Draven",
+            "Primetime Draven",
+            "Pool Party Draven",
+            "Beast Hunter Draven",
+            "Mecha Kingdoms Draven",
+            "Ruined Draven",
+            "Debonair Draven",
+            "Fright Night Draven",
+            "La Ilusi\u00f3n Draven",
+            "Draven Draven",
+            "Santa Draven"
+        ]
+    },
+    {
+        "name": "Ekko",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Ekko_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20151218185247",
+        "positions": [
+            "Jungle",
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Ekko",
+            "Sandstorm Ekko",
+            "Academy Ekko",
+            "PROJECT: Ekko",
+            "True Damage Ekko",
+            "Pulsefire Ekko",
+            "Firelight Ekko",
+            "Star Guardian Ekko",
+            "SKT T1 Ekko",
+            "Trick or Treat Ekko",
+            "Prestige Star Guardian Ekko",
+            "Breakout True Damage Ekko"
+        ]
+    },
+    {
+        "name": "Elise",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Elise_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526212517",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Shadow Isles",
+            "Noxus"
+        ],
+        "skins": [
+            "Original Elise",
+            "Death Blossom Elise",
+            "Blood Moon Elise",
+            "Super Galaxy Elise",
+            "Withered Rose Elise",
+            "Coven Elise",
+            "SKT T1 Elise",
+            "Bewitching Elise",
+            "Victorious Elise"
+        ]
+    },
+    {
+        "name": "Evelynn",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c1/Evelynn_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170926190158",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Evelynn",
+            "Shadow Evelynn",
+            "Tango Evelynn",
+            "Safecracker Evelynn",
+            "Blood Moon Evelynn",
+            "K/DA Evelynn",
+            "Sugar Rush Evelynn",
+            "K/DA ALL OUT Evelynn",
+            "Coven Evelynn",
+            "Spirit Blossom Evelynn",
+            "Soul Fighter Evelynn",
+            "High Noon Evelynn",
+            "Masquerade Evelynn",
+            "Prestige K/DA Evelynn",
+            "Prestige K/DA Evelynn (2022)",
+            "Prestige High Noon Evelynn"
+        ]
+    },
+    {
+        "name": "Ezreal",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/54/Ezreal_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220010",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Piltover"
+        ],
+        "skins": [
+            "Original Ezreal",
+            "Frosted Ezreal",
+            "Pulsefire Ezreal",
+            "Debonair Ezreal",
+            "Ace of Spades Ezreal",
+            "Arcade Ezreal",
+            "Star Guardian Ezreal",
+            "Pajama Guardian Ezreal",
+            "Battle Academia Ezreal",
+            "PsyOps Ezreal",
+            "Porcelain Protector Ezreal",
+            "Faerie Court Ezreal",
+            "HEARTSTEEL Ezreal",
+            "Nottingham Ezreal",
+            "Striker Ezreal",
+            "Explorer Ezreal",
+            "TPA Ezreal",
+            "SSG Ezreal",
+            "Heavenscale Ezreal",
+            "Prestige PsyOps Ezreal",
+            "Prestige Heavenscale Ezreal"
+        ]
+    },
+    {
+        "name": "Fiddlesticks",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a5/Fiddlesticks_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20200317230512",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Fiddlesticks",
+            "Spectral Fiddlesticks",
+            "Bandito Fiddlesticks",
+            "Surprise Party Fiddlesticks",
+            "Risen Fiddlesticks",
+            "Praetorian Fiddlesticks",
+            "Star Nemesis Fiddlesticks",
+            "Blood Moon Fiddlesticks",
+            "Union Jack Fiddlesticks",
+            "Pumpkinhead Fiddlesticks",
+            "Fiddle Me Timbers",
+            "Dark Candy Fiddlesticks"
+        ]
+    },
+    {
+        "name": "Fiora",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Fiora_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150725010749",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Fiora",
+            "Royal Guard Fiora",
+            "Nightraven Fiora",
+            "PROJECT: Fiora",
+            "Pool Party Fiora",
+            "Soaring Sword Fiora",
+            "Pulsefire Fiora",
+            "Faerie Court Fiora",
+            "Dragonmancer Fiora",
+            "Battle Queen Fiora",
+            "Headmistress Fiora",
+            "Heartpiercer Fiora",
+            "iG Fiora",
+            "Lunar Beast Fiora",
+            "Bewitching Fiora",
+            "Prestige Lunar Beast Fiora"
+        ]
+    },
+    {
+        "name": "Fizz",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Fizz_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220015",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Bilgewater"
+        ],
+        "skins": [
+            "Original Fizz",
+            "Atlantean Fizz",
+            "Tundra Fizz",
+            "Fisherman Fizz",
+            "Void Fizz",
+            "Cottontail Fizz",
+            "Super Galaxy Fizz",
+            "Omega Squad Fizz",
+            "Fuzz Fizz",
+            "Astronaut Fizz",
+            "Rain Shepherd Fizz",
+            "Little Devil Fizz",
+            "Prestige Fuzz Fizz",
+            "Prestige Fuzz Fizz (2022)"
+        ]
+    },
+    {
+        "name": "Galio",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8d/Galio_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170308183135",
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Galio",
+            "Enchanted Galio",
+            "Commando Galio",
+            "Gatekeeper Galio",
+            "Debonair Galio",
+            "Birdio",
+            "Infernal Galio",
+            "Dragon Guardian Galio",
+            "Hextech Galio",
+            "Mythmaker Galio"
+        ]
+    },
+    {
+        "name": "Gangplank",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Gangplank_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20151218185426",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Bilgewater"
+        ],
+        "skins": [
+            "Original Gangplank",
+            "Spooky Gangplank",
+            "Minuteman Gangplank",
+            "Special Forces Gangplank",
+            "Sultan Gangplank",
+            "Captain Gangplank",
+            "Dreadnova Gangplank",
+            "Pool Party Gangplank",
+            "Gangplank the Betrayer",
+            "PROJECT: Gangplank",
+            "Sailor Gangplank",
+            "Toy Soldier Gangplank",
+            "FPX Gangplank"
+        ]
+    },
+    {
+        "name": "Garen",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Garen_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220048",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Garen",
+            "Commando Garen",
+            "Dreadknight Garen",
+            "Rugged Garen",
+            "Steel Legion Garen",
+            "Rogue Admiral Garen",
+            "God-King Garen",
+            "Demacia Vice Garen",
+            "Mecha Kingdoms Garen",
+            "Battle Academia Garen",
+            "Sanguine Garen",
+            "Desert Trooper Garen",
+            "Warring Kingdoms Garen",
+            "Mythmaker Garen",
+            "Prestige Mecha Kingdoms Garen",
+            "Fallen God-King Garen"
+        ]
+    },
+    {
+        "name": "Gnar",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2d/Gnar_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526212623",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Gnar",
+            "Dino Gnar",
+            "Gentleman Gnar",
+            "El Le\u00f3n Gnar",
+            "Super Galaxy Gnar",
+            "Astronaut Gnar",
+            "Elderwood Gnar",
+            "La Ilusi\u00f3n Gnar",
+            "Snow Day Gnar",
+            "SSG Gnar"
+        ]
+    },
+    {
+        "name": "Gragas",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Gragas_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220132",
+        "positions": [
+            "Jungle",
+            "Top",
+            "Middle"
+        ],
+        "classes": [
+            "Fighter",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Gragas",
+            "Hillbilly Gragas",
+            "Gragas, Esq.",
+            "Oktoberfest Gragas",
+            "Gragas Caskbreaker",
+            "Arctic Ops Gragas",
+            "Warden Gragas",
+            "Space Groove Gragas",
+            "High Noon Gragas",
+            "Scuba Gragas",
+            "Santa Gragas",
+            "Vandal Gragas",
+            "Superfan Gragas",
+            "Fnatic Gragas",
+            "Music Fan Gragas"
+        ]
+    },
+    {
+        "name": "Graves",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c7/Graves_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170813121658",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Bilgewater"
+        ],
+        "skins": [
+            "Original Graves",
+            "Hired Gun Graves",
+            "Crime City Graves",
+            "Pool Party Graves",
+            "Cutthroat Graves",
+            "Praetorian Graves",
+            "Battle Professor Graves",
+            "Sentinel Graves",
+            "Porcelain Graves",
+            "Jailbreak Graves",
+            "Riot Graves",
+            "Snow Day Graves",
+            "EDG Graves",
+            "Victorious Graves"
+        ]
+    },
+    {
+        "name": "Gwen",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cc/Gwen_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20210331004816",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Shadow Isles",
+            "Camavor"
+        ],
+        "skins": [
+            "Original Gwen",
+            "Space Groove Gwen",
+            "Cafe Cuties Gwen",
+            "Soul Fighter Gwen",
+            "Battle Queen Gwen"
+        ]
+    },
+    {
+        "name": "Hecarim",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Hecarim_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20230310222350",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Shadow Isles",
+            "Camavor"
+        ],
+        "skins": [
+            "Original Hecarim",
+            "Reaper Hecarim",
+            "Arcade Hecarim",
+            "Elderwood Hecarim",
+            "Worldbreaker Hecarim",
+            "High Noon Hecarim",
+            "Cosmic Charger Hecarim",
+            "Arcana Hecarim",
+            "Winterblessed Hecarim",
+            "Blood Knight Hecarim",
+            "Headless Hecarim",
+            "Lancer Zero Hecarim"
+        ]
+    },
+    {
+        "name": "Heimerdinger",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/97/Heimerdinger_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220126",
+        "positions": [
+            "Support",
+            "Top",
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Piltover"
+        ],
+        "skins": [
+            "Original Heimerdinger",
+            "Blast Zone Heimerdinger",
+            "Piltover Customs Heimerdinger",
+            "Hazmat Heimerdinger",
+            "Dragon Trainer Heimerdinger",
+            "Pool Party Heimerdinger",
+            "Heimerstinger",
+            "Alien Invader Heimerdinger",
+            "Snowmerdinger"
+        ]
+    },
+    {
+        "name": "Hwei",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Hwei_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20231120223123",
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Hwei",
+            "Winterblessed Hwei"
+        ]
+    },
+    {
+        "name": "Illaoi",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/12/Illaoi_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20151111024020",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Bilgewater"
+        ],
+        "skins": [
+            "Original Illaoi",
+            "Void Bringer Illaoi",
+            "Resistance Illaoi",
+            "Cosmic Invoker Illaoi",
+            "Snow Moon Illaoi",
+            "Battle Bear Illaoi"
+        ]
+    },
+    {
+        "name": "Irelia",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/eb/Irelia_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20180320194636",
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Irelia",
+            "Nightblade Irelia",
+            "Aviator Irelia",
+            "Frostblade Irelia",
+            "Order of the Lotus Irelia",
+            "Divine Sword Irelia",
+            "PROJECT: Irelia",
+            "High Noon Irelia",
+            "Sentinel Irelia",
+            "Mythmaker Irelia",
+            "Porcelain Irelia",
+            "Infiltrator Irelia",
+            "iG Irelia",
+            "Prestige PROJECT: Irelia",
+            "Prestige PROJECT: Irelia (2022)"
+        ]
+    },
+    {
+        "name": "Ivern",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/66/Ivern_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20221122014034",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ionia",
+            "Freljord"
+        ],
+        "skins": [
+            "Original Ivern",
+            "Candy King Ivern",
+            "Dunkmaster Ivern",
+            "Old God Ivern",
+            "Astronaut Ivern"
+        ]
+    },
+    {
+        "name": "Janna",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Janna_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220208",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Zaun",
+            "Shurima"
+        ],
+        "skins": [
+            "Original Janna",
+            "Frost Queen Janna",
+            "Forecast Janna",
+            "Star Guardian Janna",
+            "Sacred Sword Janna",
+            "Guardian of the Sands Janna",
+            "Battle Queen Janna",
+            "Crystal Rose Janna",
+            "Cyber Halo Janna",
+            "Tempest Janna",
+            "Hextech Janna",
+            "Fnatic Janna",
+            "Bewitching Janna",
+            "Heavenscale Janna",
+            "Victorious Janna",
+            "Prestige Cyber Halo Janna"
+        ]
+    },
+    {
+        "name": "Jarvan IV",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4c/Jarvan_IV_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220210",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Jarvan IV",
+            "Commando Jarvan IV",
+            "Dragonslayer Jarvan IV",
+            "Darkforge Jarvan IV",
+            "Warring Kingdoms Jarvan IV",
+            "Dark Star Jarvan IV",
+            "Pool Party Jarvan IV",
+            "Nightbringer Jarvan IV",
+            "Fnatic Jarvan IV",
+            "SSG Jarvan IV",
+            "Lunar Beast Jarvan IV",
+            "Worlds 2021 Jarvan IV",
+            "Victorious Jarvan IV",
+            "Hextech Jarvan IV"
+        ]
+    },
+    {
+        "name": "Jax",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f5/Jax_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20230926225838",
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Runeterra",
+            "Icathia",
+            "Shurima"
+        ],
+        "skins": [
+            "Original Jax",
+            "Jaximus",
+            "Temple Jax",
+            "Nemesis Jax",
+            "Warden Jax",
+            "God Staff Jax",
+            "Mecha Kingdoms Jax",
+            "Empyrean Jax",
+            "PROJECT: Jax",
+            "The Mighty Jax",
+            "Vandal Jax",
+            "Angler Jax",
+            "SKT T1 Jax",
+            "Conqueror Jax",
+            "PAX Jax",
+            "Prestige Conqueror Jax",
+            "Neo PAX Jax"
+        ]
+    },
+    {
+        "name": "Jayce",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Jayce_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20221122020558",
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "classes": [
+            "Marksman",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Piltover"
+        ],
+        "skins": [
+            "Original Jayce",
+            "Full Metal Jayce",
+            "Debonair Jayce",
+            "Forsaken Jayce",
+            "Jayce Brighthammer",
+            "Battle Academia Jayce",
+            "Resistance Jayce",
+            "Arcane Jayce",
+            "Zenith Games Jayce",
+            "T1 Jayce",
+            "Prestige T1 Jayce"
+        ]
+    },
+    {
+        "name": "Jhin",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Jhin_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20220831152825",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Jhin",
+            "High Noon Jhin",
+            "Blood Moon Jhin",
+            "PROJECT: Jhin",
+            "Dark Cosmic Jhin",
+            "Shan Hai Scrolls Jhin",
+            "Empyrean Jhin",
+            "Soul Fighter Jhin",
+            "SKT T1 Jhin",
+            "DWG Jhin",
+            "Dark Cosmic Erasure Jhin"
+        ]
+    },
+    {
+        "name": "Jinx",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Jinx_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160417011945",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Jinx",
+            "Crime City Jinx",
+            "Firecracker Jinx",
+            "Star Guardian Jinx",
+            "Odyssey Jinx",
+            "PROJECT: Jinx",
+            "Arcane Jinx",
+            "Battle Cat Jinx",
+            "Cafe Cuties Jinx",
+            "Zombie Slayer Jinx",
+            "Ambitious Elf Jinx",
+            "Heartseeker Jinx",
+            "T1 Jinx",
+            "Prestige Battle Cat Jinx"
+        ]
+    },
+    {
+        "name": "K'Sante",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/5/57/K%27Sante_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20221020203752",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original K'Sante",
+            "Empyrean K'Sante",
+            "HEARTSTEEL K'Sante",
+            "Prestige Empyrean K'Sante"
+        ]
+    },
+    {
+        "name": "Kai'Sa",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/15/Kai%27Sa_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20180221202751",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [],
+        "skins": [
+            "Original Kai'Sa",
+            "Bullet Angel Kai'Sa",
+            "K/DA Kai'Sa",
+            "Arcade Kai'Sa",
+            "K/DA ALL OUT Kai'Sa",
+            "Lagoon Dragon Kai'Sa",
+            "Star Guardian Kai'Sa",
+            "Inkshadow Kai'Sa",
+            "iG Kai'Sa",
+            "Heavenscale Kai'Sa",
+            "Prestige K/DA Kai'Sa",
+            "Prestige K/DA ALL OUT Kai'Sa",
+            "Prestige K/DA Kai'Sa (2022)"
+        ]
+    },
+    {
+        "name": "Kalista",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4d/Kalista_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170401005336",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Shadow Isles",
+            "Camavor"
+        ],
+        "skins": [
+            "Original Kalista",
+            "Blood Moon Kalista",
+            "Marauder Kalista",
+            "Faerie Court Kalista",
+            "Worlds 2015 Kalista",
+            "SKT T1 Kalista"
+        ]
+    },
+    {
+        "name": "Karma",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f7/Karma_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220251",
+        "positions": [
+            "Middle",
+            "Support",
+            "Top"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Karma",
+            "Sakura Karma",
+            "Order of the Lotus Karma",
+            "Warden Karma",
+            "Dark Star Karma",
+            "Odyssey Karma",
+            "Ruined Karma",
+            "Tranquility Dragon Karma",
+            "Faerie Queen Karma",
+            "Infernal Karma",
+            "Sun Goddess Karma",
+            "Traditional Karma",
+            "Winter Wonder Karma",
+            "Conqueror Karma",
+            "Dawnbringer Karma",
+            "Bladestorm Karma"
+        ]
+    },
+    {
+        "name": "Karthus",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Karthus_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160326090500",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Shadow Isles",
+            "Noxus"
+        ],
+        "skins": [
+            "Original Karthus",
+            "Statue of Karthus",
+            "Grim Reaper Karthus",
+            "Pentakill Karthus",
+            "Karthus Lightsbane",
+            "Infernal Karthus",
+            "Pentakill III: Lost Chapter Karthus",
+            "Elderwood Karthus",
+            "Phantom Karthus",
+            "Fnatic Karthus"
+        ]
+    },
+    {
+        "name": "Kassadin",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/94/Kassadin_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20220318162058",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [],
+        "skins": [
+            "Original Kassadin",
+            "Pre-Void Kassadin",
+            "Harbinger Kassadin",
+            "Cosmic Reaver Kassadin",
+            "Shockblade Kassadin",
+            "Dragonmancer Kassadin",
+            "Festival Kassadin",
+            "Deep One Kassadin",
+            "Count Kassadin",
+            "Hextech Kassadin"
+        ]
+    },
+    {
+        "name": "Katarina",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Katarina_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220331",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Katarina",
+            "Mercenary Katarina",
+            "High Command Katarina",
+            "Sandstorm Katarina",
+            "Warring Kingdoms Katarina",
+            "PROJECT: Katarina",
+            "Battle Academia Katarina",
+            "Blood Moon Katarina",
+            "Battle Queen Katarina",
+            "High Noon Katarina",
+            "Faerie Court Katarina",
+            "Red Card Katarina",
+            "Bilgewater Katarina",
+            "Kitty Cat Katarina",
+            "Slay Belle Katarina",
+            "Death Sworn Katarina",
+            "Prestige Faerie Court Katarina"
+        ]
+    },
+    {
+        "name": "Kayle",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Kayle_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20190901014208",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Mage",
+            "Marksman"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia",
+            "Mount Targon"
+        ],
+        "skins": [
+            "Original Kayle",
+            "Viridian Kayle",
+            "Battleborn Kayle",
+            "Aether Wing Kayle",
+            "Iron Inquisitor Kayle",
+            "Pentakill Kayle",
+            "PsyOps Kayle",
+            "Dragonslayer Kayle",
+            "Pentakill III: Lost Chapter Kayle",
+            "Sun-Eater Kayle",
+            "Immortal Journey Kayle",
+            "Empyrean Kayle",
+            "Transcended Kayle",
+            "Riot Kayle",
+            "Silver Kayle",
+            "Judgment Kayle",
+            "Prestige Empyrean Kayle"
+        ]
+    },
+    {
+        "name": "Kayn",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Kayn_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170628021945",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia",
+            "Noxus"
+        ],
+        "skins": [
+            "Original Kayn",
+            "Soulhunter Kayn",
+            "Odyssey Kayn",
+            "Nightbringer Kayn",
+            "Snow Moon Kayn",
+            "HEARTSTEEL Kayn",
+            "Prestige Nightbringer Kayn"
+        ]
+    },
+    {
+        "name": "Kennen",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7b/Kennen_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160510182835",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Mage",
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Kennen",
+            "Karate Kennen",
+            "Kennen M.D.",
+            "Arctic Ops Kennen",
+            "Blood Moon Kennen",
+            "Super Kennen",
+            "Infernal Kennen",
+            "Astronaut Kennen",
+            "Deadly Kennen",
+            "Swamp Master Kennen",
+            "DWG Kennen"
+        ]
+    },
+    {
+        "name": "Kha'Zix",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Kha%27Zix_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526212833",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [],
+        "skins": [
+            "Original Kha'Zix",
+            "Mecha Kha'Zix",
+            "Guardian of the Sands Kha'Zix",
+            "Death Blossom Kha'Zix",
+            "Dark Star Kha'Zix",
+            "Odyssey Kha'Zix",
+            "Lunar Guardian Kha'Zix",
+            "Worlds 2018 Kha'Zix",
+            "Crystalis Indomitus Kha'Zix"
+        ]
+    },
+    {
+        "name": "Kindred",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3c/Kindred_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20221122021113",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Kindred",
+            "Shadowfire Kindred",
+            "Super Galaxy Kindred",
+            "Spirit Blossom Kindred",
+            "Porcelain Kindred",
+            "Woof and Lamb Kindred",
+            "DRX Kindred",
+            "Prestige Porcelain Kindred"
+        ]
+    },
+    {
+        "name": "Kled",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Kled_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170516205203",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Kled",
+            "Sir Kled",
+            "Marauder Kled",
+            "Kibble-Head Kled",
+            "Count Kledula"
+        ]
+    },
+    {
+        "name": "Kog'Maw",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bd/Kog%27Maw_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220409",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [],
+        "skins": [
+            "Original Kog'Maw",
+            "Monarch Kog'Maw",
+            "Lion Dance Kog'Maw",
+            "Jurassic Kog'Maw",
+            "Battlecast Kog'Maw",
+            "Pug'Maw",
+            "Arcanist Kog'Maw",
+            "Bee'Maw",
+            "Zap'Maw",
+            "Shan Hai Scrolls Kog'Maw",
+            "Caterpillar Kog'Maw",
+            "Sonoran Kog'Maw",
+            "Reindeer Kog'Maw",
+            "Deep Sea Kog'Maw",
+            "Hextech Kog'Maw",
+            "Victorious Kog'Maw"
+        ]
+    },
+    {
+        "name": "LeBlanc",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/LeBlanc_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526213056",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original LeBlanc",
+            "Wicked LeBlanc",
+            "Prestigious LeBlanc",
+            "Elderwood LeBlanc",
+            "Program LeBlanc",
+            "Coven LeBlanc",
+            "Debonair LeBlanc",
+            "Mistletoe LeBlanc",
+            "Ravenborn LeBlanc",
+            "iG LeBlanc",
+            "Worlds 2020 LeBlanc",
+            "Bewitching LeBlanc",
+            "Prestige Coven LeBlanc",
+            "Risen Legend LeBlanc"
+        ]
+    },
+    {
+        "name": "Lee Sin",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Lee_Sin_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20240418183049",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Lee Sin",
+            "Traditional Lee Sin",
+            "Acolyte Lee Sin",
+            "Dragon Fist Lee Sin",
+            "Muay Thai Lee Sin",
+            "Pool Party Lee Sin",
+            "Knockout Lee Sin",
+            "God Fist Lee Sin",
+            "Nightbringer Lee Sin",
+            "Storm Dragon Lee Sin",
+            "Zenith Games Lee Sin",
+            "SKT T1 Lee Sin",
+            "Playmaker Lee Sin",
+            "FPX Lee Sin",
+            "Heavenscale Lee Sin",
+            "T1 Lee Sin",
+            "Prestige Nightbringer Lee Sin",
+            "Prestige Nightbringer Lee Sin (2022)",
+            "Divine Heavenscale Lee Sin"
+        ]
+    },
+    {
+        "name": "Leona",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Leona_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220518",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [],
+        "skins": [
+            "Original Leona",
+            "Valkyrie Leona",
+            "Iron Solari Leona",
+            "Pool Party Leona",
+            "PROJECT: Leona",
+            "Barbecue Leona",
+            "Solar Eclipse Leona",
+            "Lunar Eclipse Leona",
+            "Mecha Kingdoms Leona",
+            "Battle Academia Leona",
+            "Debonair Leona",
+            "High Noon Leona",
+            "Battle Lion Leona",
+            "Defender Leona",
+            "DWG Leona",
+            "Prestige Battle Academia Leona",
+            "Crystalis Motus Leona",
+            "Prestige Battle Lion Leona"
+        ]
+    },
+    {
+        "name": "Lillia",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Lillia_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20200707201152",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Lillia",
+            "Spirit Blossom Lillia",
+            "Nightbringer Lillia",
+            "Shan Hai Scrolls Lillia",
+            "Faerie Court Lillia"
+        ]
+    },
+    {
+        "name": "Lissandra",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Lissandra_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526213305",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Lissandra",
+            "Bloodstone Lissandra",
+            "Blade Queen Lissandra",
+            "Program Lissandra",
+            "Coven Lissandra",
+            "Dark Cosmic Lissandra",
+            "Porcelain Lissandra",
+            "Space Groove Lissandra",
+            "Prestige Porcelain Lissandra"
+        ]
+    },
+    {
+        "name": "Lucian",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Lucian_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220529",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Lucian",
+            "Hired Gun Lucian",
+            "PROJECT: Lucian",
+            "High Noon Lucian",
+            "Demacia Vice Lucian",
+            "Pulsefire Lucian",
+            "Arcana Lucian",
+            "Strike Paladin Lucian",
+            "Winterblessed Lucian",
+            "Striker Lucian",
+            "Heartseeker Lucian",
+            "Prestige Pulsefire Lucian",
+            "Victorious Lucian"
+        ]
+    },
+    {
+        "name": "Lulu",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bb/Lulu_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220550",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Bandle City"
+        ],
+        "skins": [
+            "Original Lulu",
+            "Wicked Lulu",
+            "Dragon Trainer Lulu",
+            "Pool Party Lulu",
+            "Star Guardian Lulu",
+            "Cosmic Enchantress Lulu",
+            "Pajama Guardian Lulu",
+            "Space Groove Lulu",
+            "Monster Tamer Lulu",
+            "Cafe Cuties Lulu",
+            "Bittersweet Lulu",
+            "Winter Wonder Lulu",
+            "Prestige Space Groove Lulu"
+        ]
+    },
+    {
+        "name": "Lux",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/bf/Lux_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220552",
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Lux",
+            "Sorceress Lux",
+            "Spellthief Lux",
+            "Commando Lux",
+            "Steel Legion Lux",
+            "Star Guardian Lux",
+            "Elementalist Lux",
+            "Pajama Guardian Lux",
+            "Battle Academia Lux",
+            "Dark Cosmic Lux",
+            "Cosmic Lux",
+            "Space Groove Lux",
+            "Porcelain Lux",
+            "Soul Fighter Lux",
+            "Empyrean Lux",
+            "Faerie Court Lux",
+            "Imperial Lux",
+            "Lunar Empress Lux",
+            "Prestige Battle Academia Lux",
+            "Prestige Battle Academia Lux (2022)",
+            "Prestige Porcelain Lux"
+        ]
+    },
+    {
+        "name": "Malphite",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/10/Malphite_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220554",
+        "positions": [
+            "Top",
+            "Middle",
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Ixtal",
+            "Shurima"
+        ],
+        "skins": [
+            "Original Malphite",
+            "Glacial Malphite",
+            "Mecha Malphite",
+            "Ironside Malphite",
+            "Odyssey Malphite",
+            "Dark Star Malphite",
+            "Old God Malphite",
+            "Lunar Guardian Malphite",
+            "Shamrock Malphite",
+            "Coral Reef Malphite",
+            "Marble Malphite",
+            "Obsidian Malphite",
+            "FPX Malphite",
+            "Prestige Dark Star Malphite"
+        ]
+    },
+    {
+        "name": "Malzahar",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/44/Malzahar_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160419185355",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [],
+        "skins": [
+            "Original Malzahar",
+            "Shadow Prince Malzahar",
+            "Djinn Malzahar",
+            "Overlord Malzahar",
+            "Battle Boss Malzahar",
+            "Worldbreaker Malzahar",
+            "Beezahar",
+            "Debonair Malzahar",
+            "Empyrean Malzahar",
+            "Vizier Malzahar",
+            "Snow Day Malzahar",
+            "Hextech Malzahar",
+            "Three Honors Malzahar"
+        ]
+    },
+    {
+        "name": "Maokai",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/02/Maokai_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220612",
+        "positions": [
+            "Support",
+            "Jungle"
+        ],
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "skins": [
+            "Original Maokai",
+            "Charred Maokai",
+            "Totemic Maokai",
+            "Meowkai",
+            "Worldbreaker Maokai",
+            "Astronaut Maokai",
+            "Festive Maokai",
+            "Haunted Maokai",
+            "Goalkeeper Maokai",
+            "DRX Maokai",
+            "Victorious Maokai"
+        ]
+    },
+    {
+        "name": "Master Yi",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/73/Master_Yi_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220630",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Master Yi",
+            "Assassin Master Yi",
+            "Chosen Master Yi",
+            "Ionia Master Yi",
+            "Samurai Yi",
+            "Headhunter Master Yi",
+            "PROJECT: Yi",
+            "Cosmic Blade Master Yi",
+            "Eternal Sword Yi",
+            "Blood Moon Master Yi",
+            "PsyOps Master Yi",
+            "Debonair Master Yi",
+            "Spirit Blossom Master Yi",
+            "Inkshadow Master Yi",
+            "Snow Man Yi",
+            "Heavenscale Master Yi",
+            "Prestige Spirit Blossom Master Yi"
+        ]
+    },
+    {
+        "name": "Milio",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Milio_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20230308011018",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ixtal"
+        ],
+        "skins": [
+            "Original Milio",
+            "Faerie Court Milio",
+            "Rain Shepherd Milio"
+        ]
+    },
+    {
+        "name": "Miss Fortune",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Miss_Fortune_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20221122021718",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Bilgewater"
+        ],
+        "skins": [
+            "Original Miss Fortune",
+            "Cowgirl Miss Fortune",
+            "Waterloo Miss Fortune",
+            "Crime City Miss Fortune",
+            "Arcade Miss Fortune",
+            "Captain Fortune",
+            "Pool Party Miss Fortune",
+            "Star Guardian Miss Fortune",
+            "Gun Goddess Miss Fortune",
+            "Pajama Guardian Miss Fortune",
+            "Ruined Miss Fortune",
+            "Battle Bunny Miss Fortune",
+            "Broken Covenant Miss Fortune",
+            "Porcelain Miss Fortune",
+            "Battle Queen Miss Fortune",
+            "Secret Agent Miss Fortune",
+            "Candy Cane Miss Fortune",
+            "Road Warrior Miss Fortune",
+            "Bewitching Miss Fortune",
+            "Prestige Bewitching Miss Fortune",
+            "Admiral Battle Bunny Miss Fortune",
+            "Prestige Bewitching Miss Fortune (2022)",
+            "Prestige Broken Covenant Miss Fortune"
+        ]
+    },
+    {
+        "name": "Mordekaiser",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/77/Mordekaiser_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20190529201459",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Mordekaiser",
+            "Infernal Mordekaiser",
+            "Pentakill Mordekaiser",
+            "Lord Mordekaiser",
+            "King of Clubs Mordekaiser",
+            "Dark Star Mordekaiser",
+            "PROJECT: Mordekaiser",
+            "Pentakill III: Lost Chapter Mordekaiser",
+            "High Noon Mordekaiser",
+            "Old God Mordekaiser",
+            "Dragon Knight Mordekaiser",
+            "Ashen Graveknight Mordekaiser",
+            "Dark Crusader Mordekaiser"
+        ]
+    },
+    {
+        "name": "Morgana",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Morgana_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20190226165233",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Demacia",
+            "Mount Targon"
+        ],
+        "skins": [
+            "Original Morgana",
+            "Blade Mistress Morgana",
+            "Blackthorn Morgana",
+            "Ghost Bride Morgana",
+            "Majestic Empress Morgana",
+            "Coven Morgana",
+            "Dawnbringer Morgana",
+            "Star Nemesis Morgana",
+            "Snow Moon Morgana",
+            "Porcelain Morgana",
+            "Exiled Morgana",
+            "Sinful Succulence Morgana",
+            "Lunar Wraith Morgana",
+            "Bewitching Morgana",
+            "Victorious Morgana",
+            "Prestige Bewitching Morgana"
+        ]
+    },
+    {
+        "name": "Naafiri",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/14/Naafiri_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20230629014147",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Runeterra",
+            "Shurima"
+        ],
+        "skins": [
+            "Original Naafiri",
+            "Soul Fighter Naafiri",
+            "PROJECT: Naafiri"
+        ]
+    },
+    {
+        "name": "Nami",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/dd/Nami_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220700",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Nami",
+            "Koi Nami",
+            "River Spirit Nami",
+            "Urf the Nami-tee",
+            "Deep Sea Nami",
+            "Program Nami",
+            "Splendid Staff Nami",
+            "Cosmic Destiny Nami",
+            "Space Groove Nami",
+            "Coven Nami",
+            "SKT T1 Nami",
+            "Bewitching Nami",
+            "Prestige Space Groove Nami"
+        ]
+    },
+    {
+        "name": "Nasus",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Nasus_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220659",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Nasus",
+            "Galactic Nasus",
+            "Pharaoh Nasus",
+            "Dreadknight Nasus",
+            "Infernal Nasus",
+            "Archduke Nasus",
+            "Worldbreaker Nasus",
+            "Battlecast Nasus",
+            "Space Groove Nasus",
+            "Armored Titan Nasus",
+            "Nightbringer Nasus",
+            "Riot K-9 Nasus",
+            "Lunar Guardian Nasus"
+        ]
+    },
+    {
+        "name": "Nautilus",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d2/Nautilus_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526213414",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Bilgewater"
+        ],
+        "skins": [
+            "Original Nautilus",
+            "Abyssal Nautilus",
+            "Subterranean Nautilus",
+            "AstroNautilus",
+            "Warden Nautilus",
+            "Worldbreaker Nautilus",
+            "Shan Hai Scrolls Nautilus",
+            "Fright Night Nautilus",
+            "Cosmic Paladin Nautilus",
+            "Conqueror Nautilus",
+            "Crystalis Indomitus Nautilus"
+        ]
+    },
+    {
+        "name": "Neeko",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Neeko_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20181119223759",
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ixtal"
+        ],
+        "skins": [
+            "Original Neeko",
+            "Star Guardian Neeko",
+            "Shan Hai Scrolls Neeko",
+            "Street Demons Neeko",
+            "Winter Wonder Neeko",
+            "Bewitching Neeko",
+            "Prestige Star Guardian Neeko",
+            "Prestige Star Guardian Neeko (2022)",
+            "Cosplayer Neeko"
+        ]
+    },
+    {
+        "name": "Nidalee",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Nidalee_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220734",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ixtal"
+        ],
+        "skins": [
+            "Original Nidalee",
+            "French Maid Nidalee",
+            "Pharaoh Nidalee",
+            "Headhunter Nidalee",
+            "Warring Kingdoms Nidalee",
+            "Super Galaxy Nidalee",
+            "Dawnbringer Nidalee",
+            "Cosmic Huntress Nidalee",
+            "Ocean Song Nidalee",
+            "Kittalee",
+            "La Ilusi\u00f3n Nidalee",
+            "Snow Bunny Nidalee",
+            "Leopard Nidalee",
+            "Bewitching Nidalee",
+            "Challenger Nidalee",
+            "DWG Nidalee"
+        ]
+    },
+    {
+        "name": "Nilah",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Nilah_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20220623023949",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Kathkan",
+            "Bilgewater"
+        ],
+        "skins": [
+            "Original Nilah",
+            "Star Guardian Nilah",
+            "Coven Nilah"
+        ]
+    },
+    {
+        "name": "Nocturne",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a9/Nocturne_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220735",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Nocturne",
+            "Frozen Terror Nocturne",
+            "Ravager Nocturne",
+            "Eternum Nocturne",
+            "Cursed Revenant Nocturne",
+            "Old God Nocturne",
+            "Broken Covenant Nocturne",
+            "Empyrean Nocturne",
+            "Void Nocturne",
+            "Haunting Nocturne",
+            "Hextech Nocturne"
+        ]
+    },
+    {
+        "name": "Nunu & Willump",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f9/Nunu_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20221122022127",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Tank",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Nunu & Willump",
+            "Grungy Nunu & Willump",
+            "Nunu & Willump Bot",
+            "Demolisher Nunu & Willump",
+            "Papercraft Nunu & Willump",
+            "Space Groove Nunu & Willump",
+            "Nunu & Beelump",
+            "Cosmic Paladins Nunu & Willump",
+            "Fright Night Nunu & Willump",
+            "Sasquatch Nunu & Willump",
+            "Workshop Nunu & Willump",
+            "TPA Nunu & Willump",
+            "Zombie Nunu & Willump"
+        ]
+    },
+    {
+        "name": "Olaf",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Olaf_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220802",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Olaf",
+            "Brolaf",
+            "Pentakill Olaf",
+            "Marauder Olaf",
+            "Butcher Olaf",
+            "Dragonslayer Olaf",
+            "Sentinel Olaf",
+            "Pentakill III: Lost Chapter Olaf",
+            "Infernal Olaf",
+            "Forsaken Olaf",
+            "Glacial Olaf",
+            "SKT T1 Olaf"
+        ]
+    },
+    {
+        "name": "Orianna",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/70/Orianna_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220803",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Piltover"
+        ],
+        "skins": [
+            "Original Orianna",
+            "Gothic Orianna",
+            "Sewn Chaos Orianna",
+            "Bladecraft Orianna",
+            "Dark Star Orianna",
+            "Pool Party Orianna",
+            "Orbeeanna",
+            "Star Guardian Orianna",
+            "TPA Orianna",
+            "Winter Wonder Orianna",
+            "Heartseeker Orianna",
+            "T1 Orianna",
+            "Victorious Orianna"
+        ]
+    },
+    {
+        "name": "Ornn",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ca/Ornn_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170819003104",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Ornn",
+            "Thunder Lord Ornn",
+            "Elderwood Ornn",
+            "Space Groove Ornn",
+            "Choo-Choo Ornn"
+        ]
+    },
+    {
+        "name": "Pantheon",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/03/Pantheon_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20190801100355",
+        "positions": [
+            "Top",
+            "Support",
+            "Jungle",
+            "Middle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [],
+        "skins": [
+            "Original Pantheon",
+            "Myrmidon Pantheon",
+            "Full Metal Pantheon",
+            "Dragonslayer Pantheon",
+            "Baker Pantheon",
+            "Pulsefire Pantheon",
+            "Ruined Pantheon",
+            "Ruthless Pantheon",
+            "Perseus Pantheon",
+            "Glaive Warrior Pantheon",
+            "Zombie Slayer Pantheon",
+            "Prestige Ascended Pantheon",
+            "Ashen Conqueror Pantheon"
+        ]
+    },
+    {
+        "name": "Poppy",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Poppy_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20151124204455",
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Poppy",
+            "Battle Regalia Poppy",
+            "Scarlet Hammer Poppy",
+            "Star Guardian Poppy",
+            "Astronaut Poppy",
+            "Cafe Cuties Poppy",
+            "Noxus Poppy",
+            "Lollipoppy",
+            "Blacksmith Poppy",
+            "Ragdoll Poppy",
+            "Snow Fawn Poppy",
+            "Bewitching Poppy",
+            "Hextech Poppy"
+        ]
+    },
+    {
+        "name": "Pyke",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c4/Pyke_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20221122022536",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Bilgewater"
+        ],
+        "skins": [
+            "Original Pyke",
+            "Sand Wraith Pyke",
+            "Blood Moon Pyke",
+            "PROJECT: Pyke",
+            "PsyOps Pyke",
+            "Sentinel Pyke",
+            "Empyrean Pyke",
+            "Soul Fighter Pyke",
+            "Fright Night Pyke",
+            "Ashen Knight Pyke",
+            "Prestige Soul Fighter Pyke"
+        ]
+    },
+    {
+        "name": "Qiyana",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Qiyana_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20190611190538",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ixtal"
+        ],
+        "skins": [
+            "Original Qiyana",
+            "Battle Boss Qiyana",
+            "True Damage Qiyana",
+            "Battle Queen Qiyana",
+            "Shockblade Qiyana",
+            "Lunar Empress Qiyana",
+            "La Ilusi\u00f3n Qiyana",
+            "Prestige True Damage Qiyana",
+            "Prestige True Damage Qiyana (2022)"
+        ]
+    },
+    {
+        "name": "Quinn",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Quinn_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220833",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Quinn",
+            "Phoenix Quinn",
+            "Woad Scout Quinn",
+            "Corsair Quinn",
+            "Warden Quinn",
+            "Star Guardian Quinn",
+            "Heartseeker Quinn"
+        ]
+    },
+    {
+        "name": "Rakan",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9a/Rakan_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170404193836",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Rakan",
+            "Cosmic Dawn Rakan",
+            "Star Guardian Rakan",
+            "Elderwood Rakan",
+            "Arcana Rakan",
+            "Broken Covenant Rakan",
+            "Redeemed Star Guardian Rakan",
+            "Dragonmancer Rakan",
+            "Prestige Dragonmancer Rakan",
+            "Sweetheart Rakan",
+            "SSG Rakan",
+            "iG Rakan"
+        ]
+    },
+    {
+        "name": "Rammus",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Rammus_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160413190405",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Rammus",
+            "Chrome Rammus",
+            "Freljord Rammus",
+            "Full Metal Rammus",
+            "Guardian of the Sands Rammus",
+            "Astronaut Rammus",
+            "Durian Defender Rammus",
+            "Molten Rammus",
+            "Ninja Rammus",
+            "Sweeper Rammus",
+            "King Rammus",
+            "Hextech Rammus"
+        ]
+    },
+    {
+        "name": "Rek'Sai",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0b/Rek%27Sai_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526213622",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [],
+        "skins": [
+            "Original Rek'Sai",
+            "Eternum Rek'Sai",
+            "Pool Party Rek'Sai",
+            "Blackfrost Rek'Sai",
+            "Elderwood Rek'Sai",
+            "Primordian Rek'Sai"
+        ]
+    },
+    {
+        "name": "Rell",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/ce/Rell_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20201124040049",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Rell",
+            "Battle Queen Rell",
+            "Star Guardian Rell",
+            "High Noon Rell"
+        ]
+    },
+    {
+        "name": "Renata Glasc",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/74/Renata_Glasc_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20220330171748",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Renata Glasc",
+            "Admiral Glasc",
+            "Fright Night Renata Glasc",
+            "La Ilusi\u00f3n Renata Glasc",
+            "Prestige La Ilusi\u00f3n Renata Glasc"
+        ]
+    },
+    {
+        "name": "Renekton",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a4/Renekton_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220903",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Renekton",
+            "Bloodfury Renekton",
+            "Scorched Earth Renekton",
+            "Pool Party Renekton",
+            "Prehistoric Renekton",
+            "Renektoy",
+            "Blackfrost Renekton",
+            "PROJECT: Renekton",
+            "Dawnbringer Renekton",
+            "Galactic Renekton",
+            "Outback Renekton",
+            "Rune Wars Renekton",
+            "SKT T1 Renekton",
+            "Worlds 2023 Renekton",
+            "Hextech Renekton"
+        ]
+    },
+    {
+        "name": "Rengar",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/b3/Rengar_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220904",
+        "positions": [
+            "Jungle",
+            "Top"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ixtal"
+        ],
+        "skins": [
+            "Original Rengar",
+            "Headhunter Rengar",
+            "Night Hunter Rengar",
+            "Mecha Rengar",
+            "Pretty Kitty Rengar",
+            "Guardian of the Sands Rengar",
+            "Sentinel Rengar",
+            "Street Demons Rengar",
+            "SSW Rengar"
+        ]
+    },
+    {
+        "name": "Riven",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Riven_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220906",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia",
+            "Noxus"
+        ],
+        "skins": [
+            "Original Riven",
+            "Redeemed Riven",
+            "Crimson Elite Riven",
+            "Battle Bunny Riven",
+            "Arcade Riven",
+            "Dawnbringer Riven",
+            "Pulsefire Riven",
+            "Valiant Sword Riven",
+            "Spirit Blossom Riven",
+            "Sentinel Riven",
+            "Battle Bunny Prime Riven",
+            "Broken Covenant Riven",
+            "Primal Ambush Riven",
+            "Dragonblade Riven",
+            "Reignited Worlds 2012 Riven",
+            "Worlds 2012 Riven",
+            "Prestige Valiant Sword Riven",
+            "Prestige Valiant Sword Riven (2022)"
+        ]
+    },
+    {
+        "name": "Rumble",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Rumble_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220909",
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "classes": [
+            "Fighter",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Bandle City"
+        ],
+        "skins": [
+            "Original Rumble",
+            "Rumble in the Jungle",
+            "Super Galaxy Rumble",
+            "Badlands Baron Rumble",
+            "Space Groove Rumble",
+            "Cafe Cuties Rumble",
+            "Bilgerat Rumble"
+        ]
+    },
+    {
+        "name": "Ryze",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Ryze_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160630224634",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Fighter"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Ryze",
+            "Uncle Ryze",
+            "Dark Crystal Ryze",
+            "Ryze Whitebeard",
+            "Guardian of the Sands Ryze",
+            "Arcana Ryze",
+            "Tribal Ryze",
+            "Professor Ryze",
+            "Zombie Ryze",
+            "Pirate Ryze",
+            "SKT T1 Ryze",
+            "Worlds 2019 Ryze",
+            "Young Ryze",
+            "Triumphant Ryze"
+        ]
+    },
+    {
+        "name": "Samira",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Samira_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20200829040527",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Shurima",
+            "Noxus"
+        ],
+        "skins": [
+            "Original Samira",
+            "PsyOps Samira",
+            "Space Groove Samira",
+            "High Noon Samira",
+            "Soul Fighter Samira"
+        ]
+    },
+    {
+        "name": "Sejuani",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Sejuani_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402220939",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Sejuani",
+            "Darkrider Sejuani",
+            "Bear Cavalry Sejuani",
+            "Beast Hunter Sejuani",
+            "Sejuani Dawnchaser",
+            "PROJECT: Sejuani",
+            "Solar Eclipse Sejuani",
+            "Sabretusk Sejuani",
+            "Traditional Sejuani",
+            "Poro Rider Sejuani",
+            "Firecracker Sejuani",
+            "Hextech Sejuani",
+            "Victorious Sejuani"
+        ]
+    },
+    {
+        "name": "Senna",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Senna_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20191030041312",
+        "positions": [
+            "Bottom",
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [],
+        "skins": [
+            "Original Senna",
+            "True Damage Senna",
+            "High Noon Senna",
+            "PROJECT: Senna",
+            "Lunar Eclipse Senna",
+            "Star Guardian Senna",
+            "Winterblessed Senna",
+            "Bewitching Senna",
+            "Prestige True Damage Senna",
+            "Prestige Lunar Eclipse Senna"
+        ]
+    },
+    {
+        "name": "Seraphine",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Seraphine_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20201014004656",
+        "positions": [
+            "Bottom",
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Piltover",
+            "Zaun"
+        ],
+        "skins": [
+            "Original Seraphine",
+            "K/DA ALL OUT Seraphine Indie",
+            "K/DA ALL OUT Seraphine Rising Star",
+            "K/DA ALL OUT Seraphine Superstar",
+            "Graceful Phoenix Seraphine",
+            "Ocean Song Seraphine",
+            "Faerie Court Seraphine",
+            "Star Guardian Seraphine",
+            "Battle Dove Seraphine",
+            "Prestige Ocean Song Seraphine"
+        ]
+    },
+    {
+        "name": "Sett",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/da/Sett_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20200119095456",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Sett",
+            "Mecha Kingdoms Sett",
+            "Obsidian Dragon Sett",
+            "Pool Party Sett",
+            "Spirit Blossom Sett",
+            "Soul Fighter Sett",
+            "HEARTSTEEL Sett",
+            "Firecracker Sett",
+            "Prestige Obsidian Dragon Sett"
+        ]
+    },
+    {
+        "name": "Shaco",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/e1/Shaco_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20230821213937",
+        "positions": [
+            "Jungle",
+            "Support"
+        ],
+        "classes": [],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Shaco",
+            "Mad Hatter Shaco",
+            "Royal Shaco",
+            "Asylum Shaco",
+            "Masked Shaco",
+            "Wild Card Shaco",
+            "Dark Star Shaco",
+            "Arcanist Shaco",
+            "Crime City Nightmare Shaco",
+            "Winterblessed Shaco",
+            "Soul Fighter Shaco",
+            "Fright Night Shaco",
+            "Nutcracko",
+            "Workshop Shaco",
+            "Prestige Soul Fighter Shaco"
+        ]
+    },
+    {
+        "name": "Shen",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/81/Shen_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160113232959",
+        "positions": [
+            "Top",
+            "Support"
+        ],
+        "classes": [
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Shen",
+            "Surgeon Shen",
+            "Blood Moon Shen",
+            "Warlord Shen",
+            "Pulsefire Shen",
+            "Infernal Shen",
+            "PsyOps Shen",
+            "Shockblade Shen",
+            "Frozen Shen",
+            "Yellow Jacket Shen",
+            "TPA Shen",
+            "Ashen Guardian Shen"
+        ]
+    },
+    {
+        "name": "Shyvana",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f3/Shyvana_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221059",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Shyvana",
+            "Ironscale Shyvana",
+            "Boneclaw Shyvana",
+            "Darkflame Shyvana",
+            "Ice Drake Shyvana",
+            "Super Galaxy Shyvana",
+            "Ruined Shyvana",
+            "Immortal Journey Shyvana",
+            "Worlds 2014 Shyvana"
+        ]
+    },
+    {
+        "name": "Singed",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Singed_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221057",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Tank",
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Zaun",
+            "Piltover"
+        ],
+        "skins": [
+            "Original Singed",
+            "Surfer Singed",
+            "Augmented Singed",
+            "Black Scourge Singed",
+            "Beekeeper Singed",
+            "Resistance Singed",
+            "Astronaut Singed",
+            "Hextech Singed",
+            "Mad Scientist Singed",
+            "Snow Day Singed",
+            "SSW Singed",
+            "Riot Squad Singed"
+        ]
+    },
+    {
+        "name": "Sion",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ea/Sion_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221054",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Sion",
+            "Barbarian Sion",
+            "Lumberjack Sion",
+            "Warmonger Sion",
+            "Mecha Zero Sion",
+            "Worldbreaker Sion",
+            "Blackfrost Sion",
+            "High Noon Sion",
+            "Cosmic Paladin Sion",
+            "Hextech Sion"
+        ]
+    },
+    {
+        "name": "Sivir",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/90/Sivir_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20230426195957",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Sivir",
+            "Warrior Princess Sivir",
+            "Bandit Sivir",
+            "Warden Sivir",
+            "Pizza Delivery Sivir",
+            "Blood Moon Sivir",
+            "Odyssey Sivir",
+            "Cafe Cuties Sivir",
+            "Solar Eclipse Sivir",
+            "Primal Ambush Sivir",
+            "Spectacular Sivir",
+            "Snowstorm Sivir",
+            "Mythmaker Sivir",
+            "Huntress Sivir",
+            "PAX Sivir",
+            "Victorious Sivir",
+            "Neo PAX Sivir",
+            "Prestige Mythmaker Sivir",
+            "Ann-Sivir-sary",
+            "SKT T1 Sivir"
+        ]
+    },
+    {
+        "name": "Skarner",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3e/Skarner_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20240403002514",
+        "positions": [
+            "Jungle",
+            "Top"
+        ],
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ixtal"
+        ],
+        "skins": [
+            "Original Skarner",
+            "Sandscourge Skarner",
+            "Earthrune Skarner",
+            "Battlecast Alpha Skarner",
+            "Guardian of the Sands Skarner",
+            "Cosmic Sting Skarner"
+        ]
+    },
+    {
+        "name": "Smolder",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/79/Smolder_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20240111191726",
+        "positions": [
+            "Bottom",
+            "Top",
+            "Middle"
+        ],
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Smolder",
+            "Heavenscale Smolder"
+        ]
+    },
+    {
+        "name": "Sona",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Sona_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221141",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Sona",
+            "Pentakill Sona",
+            "Guqin Sona",
+            "Arcade Sona",
+            "DJ Sona",
+            "Odyssey Sona",
+            "PsyOps Sona",
+            "Pentakill III: Lost Chapter Sona",
+            "Star Guardian Sona",
+            "Immortal Journey Sona",
+            "Muse Sona",
+            "Silent Night Sona",
+            "Sweetheart Sona",
+            "Prestige Immortal Journey Sona",
+            "Victorious Sona"
+        ]
+    },
+    {
+        "name": "Soraka",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/65/Soraka_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221143",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Soraka",
+            "Dryad Soraka",
+            "Divine Soraka",
+            "Celestine Soraka",
+            "Order of the Banana Soraka",
+            "Program Soraka",
+            "Star Guardian Soraka",
+            "Pajama Guardian Soraka",
+            "Dawnbringer Soraka",
+            "Nightbringer Soraka",
+            "Cafe Cuties Soraka",
+            "Spirit Blossom Soraka",
+            "Immortal Journey Soraka",
+            "Faerie Court Soraka",
+            "Reaper Soraka",
+            "Winter Wonder Soraka",
+            "Prestige Star Guardian Soraka"
+        ]
+    },
+    {
+        "name": "Swain",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/32/Swain_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20180201124449",
+        "positions": [
+            "Support",
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Swain",
+            "Northern Front Swain",
+            "Bilgewater Swain",
+            "Tyrant Swain",
+            "Dragon Master Swain",
+            "Crystal Rose Swain",
+            "Winterblessed Swain",
+            "Hextech Swain"
+        ]
+    },
+    {
+        "name": "Sylas",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/b/be/Sylas_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20190108224754",
+        "positions": [
+            "Middle",
+            "Top"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Demacia",
+            "Freljord"
+        ],
+        "skins": [
+            "Original Sylas",
+            "Freljord Sylas",
+            "PROJECT: Sylas",
+            "Battle Wolf Sylas",
+            "Winterblessed Sylas",
+            "Lunar Wraith Sylas",
+            "Prestige PROJECT: Sylas",
+            "Ashen Slayer Sylas"
+        ]
+    },
+    {
+        "name": "Syndra",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Syndra_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20231124194003",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Syndra",
+            "Justicar Syndra",
+            "Atlantean Syndra",
+            "Queen of Diamonds Syndra",
+            "Star Guardian Syndra",
+            "Pool Party Syndra",
+            "Withered Rose Syndra",
+            "Spirit Blossom Syndra",
+            "Coven Syndra",
+            "Snow Day Syndra",
+            "SKT T1 Syndra",
+            "Bewitching Syndra",
+            "Prestige Star Guardian Syndra"
+        ]
+    },
+    {
+        "name": "Tahm Kench",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/Tahm_Kench_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526213915",
+        "positions": [
+            "Top",
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Support"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Bilgewater",
+            "Runeterra"
+        ],
+        "skins": [
+            "Original Tahm Kench",
+            "Master Chef Tahm Kench",
+            "Urf Kench",
+            "Arcana Tahm Kench",
+            "High Noon Tahm Kench",
+            "Shan Hai Scrolls Tahm Kench",
+            "Coin Emperor Tahm Kench"
+        ]
+    },
+    {
+        "name": "Taliyah",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f8/Taliyah_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160510183138",
+        "positions": [
+            "Jungle",
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Taliyah",
+            "Freljord Taliyah",
+            "Pool Party Taliyah",
+            "Star Guardian Taliyah",
+            "SSG Taliyah",
+            "Crystalis Motus Taliyah"
+        ]
+    },
+    {
+        "name": "Talon",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/34/Talon_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221208",
+        "positions": [
+            "Middle",
+            "Jungle"
+        ],
+        "classes": [],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Noxus"
+        ],
+        "skins": [
+            "Original Talon",
+            "Renegade Talon",
+            "Crimson Elite Talon",
+            "Dragonblade Talon",
+            "Blood Moon Talon",
+            "Enduring Sword Talon",
+            "Talon Blackwood",
+            "Withered Rose Talon",
+            "High Noon Talon",
+            "Primal Ambush Talon",
+            "SSW Talon",
+            "Prestige High Noon Talon"
+        ]
+    },
+    {
+        "name": "Taric",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a1/Taric_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160405191023",
+        "positions": [
+            "Support",
+            "Middle"
+        ],
+        "classes": [
+            "Support",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Taric",
+            "Armor of the Fifth Age Taric",
+            "Bloodstone Taric",
+            "Pool Party Taric",
+            "Taric Luminshield",
+            "Space Groove Taric",
+            "Emerald Taric"
+        ]
+    },
+    {
+        "name": "Teemo",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Teemo_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20240925011638",
+        "positions": [
+            "Top",
+            "Jungle",
+            "Support"
+        ],
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Bandle City"
+        ],
+        "skins": [
+            "Original Teemo",
+            "Astronaut Teemo",
+            "Cottontail Teemo",
+            "Super Teemo",
+            "Panda Teemo",
+            "Omega Squad Teemo",
+            "Beemo",
+            "Spirit Blossom Teemo",
+            "Space Groove Teemo",
+            "Happy Elf Teemo",
+            "Recon Teemo",
+            "Badger Teemo",
+            "Little Devil Teemo",
+            "Firecracker Teemo",
+            "Prestige Spirit Blossom Teemo"
+        ]
+    },
+    {
+        "name": "Thresh",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c3/Thresh_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221302",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Tank"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "skins": [
+            "Original Thresh",
+            "Deep Terror Thresh",
+            "Blood Moon Thresh",
+            "Dark Star Thresh",
+            "High Noon Thresh",
+            "Pulsefire Thresh",
+            "Spirit Blossom Thresh",
+            "Unbound Thresh",
+            "Steel Dragon Thresh",
+            "Lunar Emperor Thresh",
+            "Winterblessed Thresh",
+            "Janitor Thresh",
+            "Worlds 2013 Thresh",
+            "SSW Thresh",
+            "FPX Thresh",
+            "Prestige Pulsefire Thresh",
+            "Prestige Pulsefire Thresh (2022)"
+        ]
+    },
+    {
+        "name": "Tristana",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/08/Tristana_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221501",
+        "positions": [
+            "Bottom",
+            "Middle"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Bandle City"
+        ],
+        "skins": [
+            "Original Tristana",
+            "Buccaneer Tristana",
+            "Rocket Girl Tristana",
+            "Dragon Trainer Tristana",
+            "Omega Squad Tristana",
+            "Little Demon Tristana",
+            "Pengu Cosplay Tristana",
+            "Spirit Blossom Tristana",
+            "Faerie Court Tristana",
+            "Earnest Elf Tristana",
+            "Firefighter Tristana",
+            "Guerilla Tristana",
+            "Bewitching Tristana",
+            "Firecracker Tristana",
+            "Riot Girl Tristana",
+            "Hextech Tristana"
+        ]
+    },
+    {
+        "name": "Trundle",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/40/Trundle_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221506",
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Trundle",
+            "Lil' Slugger Trundle",
+            "Junkyard Trundle",
+            "Constable Trundle",
+            "Worldbreaker Trundle",
+            "Dragonslayer Trundle",
+            "Fright Night Trundle",
+            "Traditional Trundle",
+            "Esports Fan Trundle"
+        ]
+    },
+    {
+        "name": "Tryndamere",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Tryndamere_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221636",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Tryndamere",
+            "King Tryndamere",
+            "Demonblade Tryndamere",
+            "Sultan Tryndamere",
+            "Nightmare Tryndamere",
+            "Beast Hunter Tryndamere",
+            "Chemtech Tryndamere",
+            "Blood Moon Tryndamere",
+            "Nightbringer Tryndamere",
+            "Highland Tryndamere",
+            "Viking Tryndamere",
+            "Warring Kingdoms Tryndamere",
+            "Victorious Tryndamere"
+        ]
+    },
+    {
+        "name": "Twisted Fate",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2e/Twisted_Fate_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221634",
+        "positions": [
+            "Middle",
+            "Bottom",
+            "Top"
+        ],
+        "classes": [
+            "Mage",
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Bilgewater"
+        ],
+        "skins": [
+            "Original Twisted Fate",
+            "Jack of Hearts Twisted Fate",
+            "Tango Twisted Fate",
+            "High Noon Twisted Fate",
+            "Musketeer Twisted Fate",
+            "Cutpurse Twisted Fate",
+            "Blood Moon Twisted Fate",
+            "Pulsefire Twisted Fate",
+            "Odyssey Twisted Fate",
+            "Crime City Nightmare Twisted Fate",
+            "Space Groove Twisted Fate",
+            "The Magnificent Twisted Fate",
+            "Underworld Twisted Fate",
+            "Red Card Twisted Fate",
+            "DWG Twisted Fate",
+            "PAX Twisted Fate"
+        ]
+    },
+    {
+        "name": "Twitch",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/f/fb/Twitch_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402221633",
+        "positions": [
+            "Bottom",
+            "Support"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Twitch",
+            "Crime City Twitch",
+            "Pickpocket Twitch",
+            "Omega Squad Twitch",
+            "Twitch Shadowfoot",
+            "Dragonslayer Twitch",
+            "High Noon Twitch",
+            "Cheddar Chief Twitch",
+            "Kingpin Twitch",
+            "Whistler Village Twitch",
+            "Vandal Twitch",
+            "SSW Twitch",
+            "Ice King Twitch",
+            "Medieval Twitch"
+        ]
+    },
+    {
+        "name": "Udyr",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2b/Udyr_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20220809214819",
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Freljord",
+            "Ionia"
+        ],
+        "skins": [
+            "Original Udyr",
+            "Black Belt Udyr",
+            "Spirit Guard Udyr",
+            "Definitely Not Udyr",
+            "Dragon Oracle Udyr",
+            "Inkshadow Udyr",
+            "Primal Udyr"
+        ]
+    },
+    {
+        "name": "Urgot",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Urgot_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170711190113",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Noxus",
+            "Zaun"
+        ],
+        "skins": [
+            "Original Urgot",
+            "Giant Enemy Crabgot",
+            "Battlecast Urgot",
+            "High Noon Urgot",
+            "Pajama Guardian Cosplay Urgot",
+            "Fright Night Urgot",
+            "Butcher Urgot"
+        ]
+    },
+    {
+        "name": "Varus",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9c/Varus_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20171215205843",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia",
+            "Shurima"
+        ],
+        "skins": [
+            "Original Varus",
+            "Blight Crystal Varus",
+            "Arclight Varus",
+            "Arctic Ops Varus",
+            "Varus Swiftbolt",
+            "Dark Star Varus",
+            "Infernal Varus",
+            "PROJECT: Varus",
+            "Cosmic Hunter Varus",
+            "High Noon Varus",
+            "Snow Moon Varus",
+            "Empyrean Varus",
+            "Heartseeker Varus",
+            "Conqueror Varus"
+        ]
+    },
+    {
+        "name": "Vayne",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/05/Vayne_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402222338",
+        "positions": [
+            "Bottom",
+            "Top"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia"
+        ],
+        "skins": [
+            "Original Vayne",
+            "Aristocrat Vayne",
+            "Dragonslayer Vayne",
+            "Arclight Vayne",
+            "PROJECT: Vayne",
+            "Spirit Blossom Vayne",
+            "Sentinel Vayne",
+            "Battle Bat Vayne",
+            "Dawnbringer Vayne",
+            "Dragonmancer Vayne",
+            "Vindicator Vayne",
+            "Heartseeker Vayne",
+            "SKT T1 Vayne",
+            "Firecracker Vayne",
+            "FPX Vayne",
+            "Soulstealer Vayne",
+            "Prestige Firecracker Vayne",
+            "Prestige Firecracker Vayne (2022)"
+        ]
+    },
+    {
+        "name": "Veigar",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/3/37/Veigar_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402222337",
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra",
+            "Bandle City"
+        ],
+        "skins": [
+            "Original Veigar",
+            "White Mage Veigar",
+            "Veigar Greybeard",
+            "Leprechaun Veigar",
+            "Superb Villain Veigar",
+            "Final Boss Veigar",
+            "Omega Squad Veigar",
+            "Elderwood Veigar",
+            "Furyhorn Cosplay Veigar",
+            "Astronaut Veigar",
+            "Monster Tamer Veigar",
+            "King Beegar",
+            "Fright Night Veigar",
+            "Curling Veigar",
+            "Baron Von Veigar",
+            "Bad Santa Veigar"
+        ]
+    },
+    {
+        "name": "Vel'Koz",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0e/Vel%27Koz_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402222335",
+        "positions": [
+            "Support",
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [],
+        "skins": [
+            "Original Vel'Koz",
+            "Battlecast Vel'Koz",
+            "Arclight Vel'Koz",
+            "Definitely Not Vel'Koz",
+            "Infernal Vel'Koz",
+            "Blackfrost Vel'Koz",
+            "Bee'Koz"
+        ]
+    },
+    {
+        "name": "Vex",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/06/Vex_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20231116224716",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Shadow Isles",
+            "Bandle City"
+        ],
+        "skins": [
+            "Original Vex",
+            "Dawnbringer Vex",
+            "Empyrean Vex"
+        ]
+    },
+    {
+        "name": "Vi",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ec/Vi_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526214220",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Piltover",
+            "Zaun"
+        ],
+        "skins": [
+            "Original Vi",
+            "Neon Strike Vi",
+            "Officer Vi",
+            "Debonair Vi",
+            "Demon Vi",
+            "PROJECT: Vi",
+            "PsyOps Vi",
+            "Arcane Vi",
+            "Heartache Vi",
+            "Primal Ambush Vi",
+            "Warring Kingdoms Vi",
+            "Heartbreaker Vi"
+        ]
+    },
+    {
+        "name": "Viego",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Viego_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20210904152806",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Shadow Isles",
+            "Camavor"
+        ],
+        "skins": [
+            "Original Viego",
+            "Dissonance of Pentakill Viego",
+            "King Viego",
+            "Soul Fighter Viego",
+            "Worlds 2024 Viego",
+            "Lunar Beast Viego",
+            "EDG Viego"
+        ]
+    },
+    {
+        "name": "Viktor",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Viktor_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402222333",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Viktor",
+            "Full Machine Viktor",
+            "Creator Viktor",
+            "PsyOps Viktor",
+            "High Noon Viktor",
+            "Prototype Viktor",
+            "Death Sworn Viktor"
+        ]
+    },
+    {
+        "name": "Vladimir",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/43/Vladimir_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402222423",
+        "positions": [
+            "Middle",
+            "Top"
+        ],
+        "classes": [
+            "Mage",
+            "Fighter"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Noxus",
+            "Camavor"
+        ],
+        "skins": [
+            "Original Vladimir",
+            "Marquis Vladimir",
+            "Blood Lord Vladimir",
+            "Soulstealer Vladimir",
+            "Academy Vladimir",
+            "Dark Waters Vladimir",
+            "Nightbringer Vladimir",
+            "Cosmic Devourer Vladimir",
+            "Cafe Cuties Vladimir",
+            "Broken Covenant Vladimir",
+            "Count Vladimir",
+            "Nosferatu Vladimir",
+            "Vandal Vladimir"
+        ]
+    },
+    {
+        "name": "Volibear",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6d/Volibear_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20200512204952",
+        "positions": [
+            "Top",
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Freljord"
+        ],
+        "skins": [
+            "Original Volibear",
+            "Thunder Lord Volibear",
+            "Runeguard Volibear",
+            "Captain Volibear",
+            "El Rayo Volibear",
+            "The Thousand-Pierced Bear",
+            "Duality Dragon Volibear",
+            "Inkshadow Volibear",
+            "Northern Storm Volibear",
+            "Prestige Duality Dragon Volibear"
+        ]
+    },
+    {
+        "name": "Warwick",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/23/Warwick_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170110204118",
+        "positions": [
+            "Jungle",
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Warwick",
+            "Tundra Hunter Warwick",
+            "Firefang Warwick",
+            "Hyena Warwick",
+            "Marauder Warwick",
+            "PROJECT: Warwick",
+            "Old God Warwick",
+            "Winterblessed Warwick",
+            "Big Bad Warwick",
+            "Feral Warwick",
+            "Lunar Guardian Warwick",
+            "Grey Warwick",
+            "Urf the Manatee",
+            "Urfwick",
+            "Prestige Winterblessed Warwick"
+        ]
+    },
+    {
+        "name": "Wukong",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Wukong_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402222522",
+        "positions": [
+            "Jungle",
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Wukong",
+            "Volcanic Wukong",
+            "General Wukong",
+            "Jade Dragon Wukong",
+            "Radiant Wukong",
+            "Lancer Stratus Wukong",
+            "Battle Academia Wukong",
+            "Elderwood Wukong",
+            "Underworld Wukong"
+        ]
+    },
+    {
+        "name": "Xayah",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4e/Xayah_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20170404193839",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Xayah",
+            "Cosmic Dusk Xayah",
+            "Star Guardian Xayah",
+            "Elderwood Xayah",
+            "Brave Phoenix Xayah",
+            "Arcana Xayah",
+            "Broken Covenant Xayah",
+            "Redeemed Star Guardian Xayah",
+            "Battle Bat Xayah",
+            "Sweetheart Xayah",
+            "SSG Xayah",
+            "Prestige Brave Phoenix Xayah"
+        ]
+    },
+    {
+        "name": "Xerath",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/c/cf/Xerath_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402222520",
+        "positions": [
+            "Middle",
+            "Support"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Shurima"
+        ],
+        "skins": [
+            "Original Xerath",
+            "Runeborn Xerath",
+            "Battlecast Xerath",
+            "Scorched Earth Xerath",
+            "Guardian of the Sands Xerath",
+            "Dark Star Xerath",
+            "Arcana Xerath",
+            "Astronaut Xerath",
+            "Crystalis Indomitus Xerath"
+        ]
+    },
+    {
+        "name": "Xin Zhao",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1f/Xin_Zhao_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20180207001445",
+        "positions": [
+            "Jungle"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Demacia",
+            "Ionia",
+            "Noxus"
+        ],
+        "skins": [
+            "Original Xin Zhao",
+            "Commando Xin Zhao",
+            "Warring Kingdoms Xin Zhao",
+            "Secret Agent Xin Zhao",
+            "Dragonslayer Xin Zhao",
+            "Cosmic Defender Xin Zhao",
+            "Marauder Xin Zhao",
+            "Imperial Xin Zhao",
+            "Viscero Xin Zhao",
+            "Winged Hussar Xin Zhao",
+            "Firecracker Xin Zhao"
+        ]
+    },
+    {
+        "name": "Yasuo",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/ad/Yasuo_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402222545",
+        "positions": [
+            "Top",
+            "Middle",
+            "Bottom"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Yasuo",
+            "High Noon Yasuo",
+            "PROJECT: Yasuo",
+            "Blood Moon Yasuo",
+            "Nightbringer Yasuo",
+            "Odyssey Yasuo",
+            "Battle Boss Yasuo",
+            "True Damage Yasuo",
+            "Spirit Blossom Yasuo",
+            "Sea Dog Yasuo",
+            "Truth Dragon Yasuo",
+            "Dream Dragon Yasuo",
+            "Inkshadow Yasuo",
+            "Foreseen Yasuo",
+            "Battle Wolf Yasuo",
+            "Prestige True Damage Yasuo",
+            "Prestige Inkshadow Yasuo",
+            "Genesis Nightbringer Yasuo"
+        ]
+    },
+    {
+        "name": "Yone",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/a/a6/Yone_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20200916084443",
+        "positions": [
+            "Top",
+            "Middle"
+        ],
+        "classes": [
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Yone",
+            "Spirit Blossom Yone",
+            "Battle Academia Yone",
+            "Dawnbringer Yone",
+            "Ocean Song Yone",
+            "Inkshadow Yone",
+            "HEARTSTEEL Yone",
+            "High Noon Yone",
+            "Prestige HEARTSTEEL Yone",
+            "Peacemaker High Noon Yone"
+        ]
+    },
+    {
+        "name": "Yorick",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Yorick_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160823190542",
+        "positions": [
+            "Top"
+        ],
+        "classes": [
+            "Fighter",
+            "Tank"
+        ],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "skins": [
+            "Original Yorick",
+            "Undertaker Yorick",
+            "Pentakill Yorick",
+            "Arclight Yorick",
+            "Meowrick",
+            "Resistance Yorick",
+            "Pentakill III: Lost Chapter Yorick",
+            "Spirit Blossom Yorick"
+        ]
+    },
+    {
+        "name": "Yuumi",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/6/6c/Yuumi_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20190430215817",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Bandle City"
+        ],
+        "skins": [
+            "Original Yuumi",
+            "Battle Principal Yuumi",
+            "Yuubee",
+            "Shiba Yuumi",
+            "Cyber Cat Yuumi",
+            "Heartseeker Yuumi",
+            "Bewitching Yuumi",
+            "EDG Yuumi",
+            "Prestige Cyber Cat Yuumi"
+        ]
+    },
+    {
+        "name": "Zac",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Zac_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160417012331",
+        "positions": [
+            "Jungle",
+            "Top",
+            "Support"
+        ],
+        "classes": [
+            "Tank",
+            "Fighter"
+        ],
+        "range": "Melee",
+        "adap_type": "Magic",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Zac",
+            "Special Weapon Zac",
+            "Pool Party Zac",
+            "Battlecast Zac",
+            "Empyrean Zac",
+            "Zesty Dip Zac",
+            "SKT T1 Zac"
+        ]
+    },
+    {
+        "name": "Zed",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/4/46/Zed_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526214523",
+        "positions": [
+            "Middle",
+            "Jungle"
+        ],
+        "classes": [],
+        "range": "Melee",
+        "adap_type": "Physical",
+        "regions": [
+            "Ionia"
+        ],
+        "skins": [
+            "Original Zed",
+            "Shockblade Zed",
+            "PROJECT: Zed",
+            "Galaxy Slayer Zed",
+            "PsyOps Zed",
+            "Debonair Zed",
+            "Empyrean Zed",
+            "Immortal Journey Zed",
+            "Blood Moon Zed",
+            "SKT T1 Zed",
+            "Worlds 2016 Zed",
+            "Death Sworn Zed",
+            "Prestige PROJECT: Zed"
+        ]
+    },
+    {
+        "name": "Zeri",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7d/Zeri_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20220330171840",
+        "positions": [
+            "Bottom"
+        ],
+        "classes": [
+            "Marksman"
+        ],
+        "range": "Ranged",
+        "adap_type": "Physical",
+        "regions": [
+            "Zaun"
+        ],
+        "skins": [
+            "Original Zeri",
+            "Withered Rose Zeri",
+            "Ocean Song Zeri",
+            "Immortal Journey Zeri",
+            "Fright Night Zeri",
+            "Prestige Fright Night Zeri"
+        ]
+    },
+    {
+        "name": "Ziggs",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/7/72/Ziggs_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526214602",
+        "positions": [
+            "Bottom",
+            "Middle"
+        ],
+        "classes": [
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Zaun",
+            "Piltover"
+        ],
+        "skins": [
+            "Original Ziggs",
+            "Mad Scientist Ziggs",
+            "Pool Party Ziggs",
+            "Master Arcanist Ziggs",
+            "Battle Boss Ziggs",
+            "Sugar Rush Ziggs",
+            "BZZZiggs",
+            "La Ilusi\u00f3n Ziggs",
+            "Major Ziggs",
+            "Snow Day Ziggs",
+            "Odyssey Ziggs",
+            "Hextech Ziggs"
+        ]
+    },
+    {
+        "name": "Zilean",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1c/Zilean_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20150402222614",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Support",
+            "Mage"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Runeterra",
+            "Icathia",
+            "Shurima"
+        ],
+        "skins": [
+            "Original Zilean",
+            "Groovy Zilean",
+            "Shurima Desert Zilean",
+            "Blood Moon Zilean",
+            "Sugar Rush Zilean",
+            "Winterblessed Zilean",
+            "Old Saint Zilean",
+            "Time Machine Zilean"
+        ]
+    },
+    {
+        "name": "Zoe",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/2/2c/Zoe_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20221122024729",
+        "positions": [
+            "Middle"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [],
+        "skins": [
+            "Original Zoe",
+            "Cyber Pop Zoe",
+            "Pool Party Zoe",
+            "Star Guardian Zoe",
+            "Arcanist Zoe",
+            "Winterblessed Zoe",
+            "EDG Zoe",
+            "Prestige Arcanist Zoe"
+        ]
+    },
+    {
+        "name": "Zyra",
+        "icon_url": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0d/Zyra_OriginalSquare.png/revision/latest/scale-to-width-down/42?cb=20160526214642",
+        "positions": [
+            "Support"
+        ],
+        "classes": [
+            "Mage",
+            "Support"
+        ],
+        "range": "Ranged",
+        "adap_type": "Magic",
+        "regions": [
+            "Ixtal"
+        ],
+        "skins": [
+            "Original Zyra",
+            "Wildfire Zyra",
+            "Haunted Zyra",
+            "Dragon Sorceress Zyra",
+            "Coven Zyra",
+            "Crystal Rose Zyra",
+            "Crime City Nightmare Zyra",
+            "Street Demons Zyra",
+            "Blood Moon Zyra",
+            "SKT T1 Zyra",
+            "Mythmaker Zyra",
+            "Prestige Coven Zyra"
+        ]
+    }
+]
