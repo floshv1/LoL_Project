@@ -91,7 +91,7 @@ def show_single_randomizer_page():
     region_var = tk.StringVar()
     region_var.set("All")
 
-    region_dropdown = tk.OptionMenu(dropdown_frame, region_var, "All", 'Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', 'Mount Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun')
+    region_dropdown = tk.OptionMenu(dropdown_frame, region_var, "All", 'Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', 'Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun')
     region_dropdown.grid(row=1, column=1, padx=5)
 
     # Range label and dropdown
@@ -146,9 +146,9 @@ def show_team_randomizer_page():
 
     global filter_var
     filter_var = tk.StringVar()
-    filter_var.set("None")
+    filter_var.set("Region")
 
-    filter_type_dropdown = tk.OptionMenu(root, filter_var, "None", "Region", "Damage Type", "Range", command=update_filter_options)
+    filter_type_dropdown = tk.OptionMenu(root, filter_var, "Region", "Damage Type", "Range", command=update_filter_options)
     filter_type_dropdown.pack(pady=5)
 
     # Frame for the filter-specific dropdown (region, damage type, range)
@@ -201,7 +201,7 @@ def update_filter_options(selected_filter):
 
     if selected_filter == "Region":
         specific_filter_var.set("All")
-        filter_options = ["All", 'Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', 'Mount Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun']
+        filter_options = ["All", 'Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', 'Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun']
     elif selected_filter == "Damage Type":
         specific_filter_var.set("All")
         filter_options = ["All", "Physical", "Magic"]
@@ -219,7 +219,7 @@ def find_valid_regions(champion_data, roles):
     valid_regions = []
 
     for region in ['Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', 
-                   'Mount Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun']:
+                   'Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun']:
         region_valid = True
         for role in roles:
             champions_in_role = filter_champions_role(champion_data, role)
@@ -257,7 +257,6 @@ def update_filter_options(selected_filter):
     filter_dropdown = tk.OptionMenu(filter_options_frame, specific_filter_var, *filter_options)
     filter_dropdown.pack()
 
-import random
 
 def pick_random_team():
     global picked_champions
@@ -285,7 +284,6 @@ def pick_random_team():
         display_champion_icon(random_champion['icon_url'], champ_icon_labels[role])
 
         reroll_flags[role] = False
-
 
 
 # Filter champions based on role

@@ -134,7 +134,7 @@ def get_champ_regions(champ_url):
     response = requests.get(champ_url['url'].split('/LoL')[0])
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    valid_regions = ['Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia','Kathkan', 'Mount Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun'] 
+    valid_regions = ['Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia','Kathkan', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'Targon', 'The Void', 'Zaun'] 
     
     champ_regions= []
 

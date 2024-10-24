@@ -271,7 +271,9 @@
         ],
         "range": "Ranged",
         "adap_type": "Physical",
-        "regions": [],
+        "regions": [
+            "Targon"
+        ],
         "skins": [
             "Original Aphelios",
             "Nightbringer Aphelios",
@@ -331,7 +333,8 @@
         "range": "Ranged",
         "adap_type": "Magic",
         "regions": [
-            "Runeterra"
+            "Runeterra",
+            "Targon"
         ],
         "skins": [
             "Original Aurelion Sol",
@@ -736,7 +739,9 @@
         ],
         "range": "Melee",
         "adap_type": "Magic",
-        "regions": [],
+        "regions": [
+            "Targon"
+        ],
         "skins": [
             "Original Diana",
             "Dark Valkyrie Diana",
@@ -1813,8 +1818,7 @@
         "range": "Melee",
         "adap_type": "Physical",
         "regions": [
-            "Demacia",
-            "Mount Targon"
+            "Demacia"
         ],
         "skins": [
             "Original Kayle",
@@ -2071,7 +2075,9 @@
         ],
         "range": "Melee",
         "adap_type": "Physical",
-        "regions": [],
+        "regions": [
+            "Targon"
+        ],
         "skins": [
             "Original Leona",
             "Valkyrie Leona",
@@ -2476,8 +2482,7 @@
         "range": "Ranged",
         "adap_type": "Magic",
         "regions": [
-            "Demacia",
-            "Mount Targon"
+            "Demacia"
         ],
         "skins": [
             "Original Morgana",
@@ -2849,7 +2854,9 @@
         ],
         "range": "Melee",
         "adap_type": "Physical",
-        "regions": [],
+        "regions": [
+            "Targon"
+        ],
         "skins": [
             "Original Pantheon",
             "Myrmidon Pantheon",
@@ -3671,6 +3678,7 @@
         "range": "Ranged",
         "adap_type": "Magic",
         "regions": [
+            "Targon",
             "Ionia"
         ],
         "skins": [
@@ -3871,6 +3879,7 @@
         "range": "Melee",
         "adap_type": "Physical",
         "regions": [
+            "Targon",
             "Demacia"
         ],
         "skins": [
@@ -4874,7 +4883,9 @@
         ],
         "range": "Ranged",
         "adap_type": "Magic",
-        "regions": [],
+        "regions": [
+            "Targon"
+        ],
         "skins": [
             "Original Zoe",
             "Cyber Pop Zoe",
