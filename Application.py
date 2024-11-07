@@ -13,11 +13,11 @@ def clear_frame():
 
 # Menu command to add options
 def menu_command():
-    menu = tk.Menu(root)
-    root.config(menu=menu)
+    menu_bar = tk.Menu(root)
+    root.config(menu=menu_bar)
 
-    Champ_menu = tk.Menu(menu)
-    menu.add_cascade(label="Programs", menu=Champ_menu)
+    Champ_menu = tk.Menu(menu_bar, tearoff=0)
+    menu_bar.add_cascade(label="Programs", menu=Champ_menu)
     Champ_menu.add_command(label="Single Random Champion", command=show_single_randomizer_page)
     Champ_menu.add_command(label="Random Team Champions", command=show_team_randomizer_page)
 
@@ -132,7 +132,6 @@ def show_single_randomizer_page():
     pick_button.pack(pady=10)
 
 # Display the team randomizer
-# Display the team randomizer
 def show_team_randomizer_page():
     clear_frame()
     menu_command()
@@ -201,7 +200,7 @@ def update_filter_options(selected_filter):
 
     if selected_filter == "Region":
         specific_filter_var.set("All")
-        filter_options = ["All", 'Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', 'Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun']
+        filter_options = ["All", 'Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', '   Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun']
     elif selected_filter == "Damage Type":
         specific_filter_var.set("All")
         filter_options = ["All", "Physical", "Magic"]
@@ -211,7 +210,7 @@ def update_filter_options(selected_filter):
     else:
         return
 
-    filter_dropdown = tk.OptionMenu(filter_options_frame, specific_filter_var, *filter_options)
+    filter_dropdown = tk.OptionMenu(filter_options_frame, specific_filter_var, filter_options)
     filter_dropdown.pack()
 
 # Function to find regions with at least one champion in each role
