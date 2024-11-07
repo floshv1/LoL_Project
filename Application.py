@@ -230,33 +230,6 @@ def find_valid_regions(champion_data, roles):
 
     return valid_regions
 
-# Update the filter options based on the selected filter type
-def update_filter_options(selected_filter):
-    # Clear the filter options frame
-    for widget in filter_options_frame.winfo_children():
-        widget.destroy()
-
-    global specific_filter_var
-    specific_filter_var = tk.StringVar()
-
-    if selected_filter == "Region":
-        # Get valid regions with champions in all roles
-        valid_regions = find_valid_regions(champion_data, roles)
-        specific_filter_var.set("All")
-        filter_options = ["All"] + valid_regions  # Add 'All' option to select from all champions
-    elif selected_filter == "Damage Type":
-        specific_filter_var.set("All")
-        filter_options = ["All", "Physical", "Magic"]
-    elif selected_filter == "Range":
-        specific_filter_var.set("All")
-        filter_options = ["All", "Melee", "Ranged"]
-    else:
-        return
-
-    filter_dropdown = tk.OptionMenu(filter_options_frame, specific_filter_var, *filter_options)
-    filter_dropdown.pack()
-
-
 def pick_random_team():
     global picked_champions
     picked_champions = {}
