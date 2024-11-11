@@ -1,4 +1,5 @@
 import json
+import os
 import random
 import tkinter as tk
 from tkinter import messagebox
@@ -12,7 +13,9 @@ def clear_frame():
         widget.destroy()
 
 # Menu command to add options
+# Menu command to add options
 def menu_command():
+
     menu_bar = tk.Menu(root)
     root.config(menu=menu_bar)
 
@@ -20,6 +23,8 @@ def menu_command():
     menu_bar.add_cascade(label="Programs", menu=Champ_menu)
     Champ_menu.add_command(label="Single Random Champion", command=show_single_randomizer_page)
     Champ_menu.add_command(label="Random Team Champions", command=show_team_randomizer_page)
+    Champ_menu.add_command(label="Champion Skins", command=lambda: display_skins(root, champion_data))  # Added skins page
+
 
 
 # Filter champions based on role
@@ -285,7 +290,7 @@ def reroll_champion(role):
 
 # Load champion data from JSON
 def load_champions():
-    with open('champions_lol.json', 'r') as json_file:
+    with open('database/champions_lol.json', 'r') as json_file:
         champion_data = json.load(json_file)
     return champion_data
 
@@ -319,6 +324,80 @@ def display_champion_icon(icon_url, label):
 
     except Exception as e:
         label.config(text="Failed to load icon")
+
+
+def load_owned_skins():
+    try:
+        if os.path.exists('database/owned_skins.json'):
+            with open('database/owned_skins.json', 'r') as file:
+                return json.load(file)
+    except json.JSONDecodeError:
+        print("Warning: owned_skins.json is empty or has invalid JSON. Loading empty data.")
+    return {}  # Return empty dictionary if the file is empty or invalid
+
+# Save owned skins data to owned_skins.json
+def save_owned_skins(owned_skins):
+    with open('database/owned_skins.json', 'w') as file:
+        json.dump(owned_skins, file, indent=4)
+
+# Display all skins for each champion, excluding "Original" skins
+# Display all skins for each champion, excluding "Original" skins
+def display_skins(root, champion_data):
+    # Clear the current frame before displaying skins
+    clear_frame()
+    menu_command()  # Recreate the menu when navigating to this page
+
+    # Load owned skins
+    owned_skins = load_owned_skins()
+
+    # Title label
+    tk.Label(root, text="Champion Skins", font=("Arial", 16)).pack(pady=10)
+
+    # Scrollable frame
+    canvas = tk.Canvas(root)
+    scroll_y = tk.Scrollbar(root, orient="vertical", command=canvas.yview)
+    scrollable_frame = tk.Frame(canvas)
+
+    scrollable_frame.bind(
+        "<Configure>",
+        lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
+    )
+
+    canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+    canvas.configure(yscrollcommand=scroll_y.set)
+
+    for champion in champion_data:
+        champion_name = champion.get('name', 'Unknown Champion')
+        tk.Label(scrollable_frame, text=champion_name, font=("Arial", 12, "bold")).pack(anchor="w", padx=10, pady=5)
+
+        # Filter out "Original" skin
+        skins = [skin for skin in champion.get('skins', []) if "Original" not in skin]
+
+        for skin in skins:
+            skin_var = tk.BooleanVar(value=skin in owned_skins.get(champion_name, []))
+            cb = tk.Checkbutton(
+                scrollable_frame, 
+                text=skin, 
+                variable=skin_var,
+                command=lambda c=champion_name, s=skin, var=skin_var: toggle_skin(c, s, var)
+            )
+            cb.pack(anchor="w", padx=20)
+
+    canvas.pack(side="left", fill="both", expand=True)
+    scroll_y.pack(side="right", fill="y")
+
+    # Save function to toggle skin ownership
+    def toggle_skin(champion_name, skin_name, skin_var):
+        if champion_name not in owned_skins:
+            owned_skins[champion_name] = []
+        if skin_var.get():
+            if skin_name not in owned_skins[champion_name]:
+                owned_skins[champion_name].append(skin_name)
+        else:
+            if skin_name in owned_skins[champion_name]:
+                owned_skins[champion_name].remove(skin_name)
+        save_owned_skins(owned_skins)
+
 
 
 # Main application setup
