@@ -43,7 +43,7 @@ def filter_champions_damage(champion_data, region):
         return champion_data
     return [champion for champion in champion_data if region in champion['adap_type']]
 
-def filter_champtions():
+def filter_champions():
     role = role_var.get()
     region = region_var.get()
     ranged = range_var.get()
@@ -189,7 +189,6 @@ def show_team_randomizer_page():
         reroll_buttons[role] = tk.Button(role_frame, text="Reroll", command=lambda r=role: reroll_champion(r))
         reroll_buttons[role].pack(pady=5)
 
-# Update the filter options based on the selected filter type
 def update_filter_options(selected_filter):
     # Clear the filter options frame
     for widget in filter_options_frame.winfo_children():
@@ -199,8 +198,10 @@ def update_filter_options(selected_filter):
     specific_filter_var = tk.StringVar()
 
     if selected_filter == "Region":
+        # Get valid regions with champions in all roles
+        valid_regions = find_valid_regions(champion_data, roles)
         specific_filter_var.set("All")
-        filter_options = ["All", 'Bandle City', 'Bilgewater', 'Camavor', 'Demacia', 'Freljord', 'Icathia', 'Ixtal', 'Ionia', 'Kathkan', '   Targon', 'Noxus', 'Piltover', 'Runeterra', 'Shadow Isles', 'Shurima', 'The Void', 'Zaun']
+        filter_options = ["All"] + valid_regions  # Add 'All' option to select from all champions
     elif selected_filter == "Damage Type":
         specific_filter_var.set("All")
         filter_options = ["All", "Physical", "Magic"]
@@ -210,7 +211,7 @@ def update_filter_options(selected_filter):
     else:
         return
 
-    filter_dropdown = tk.OptionMenu(filter_options_frame, specific_filter_var, filter_options)
+    filter_dropdown = tk.OptionMenu(filter_options_frame, specific_filter_var, *filter_options)
     filter_dropdown.pack()
 
 # Function to find regions with at least one champion in each role
@@ -258,12 +259,6 @@ def pick_random_team():
         reroll_flags[role] = False
 
 
-# Filter champions based on role
-def filter_champions_role(champion_data, role):
-    if role == 'All':
-        return champion_data
-    return [champion for champion in champion_data if role in champion['positions']]
-
 # Reroll the champion for a specific role (only once)
 def reroll_champion(role):
     if reroll_flags[role]:
@@ -302,7 +297,7 @@ def get_random_champion(champions):
 
 # Pick a random champion for the selected role in the single randomizer
 def pick_random_champion():
-    filtered_champions = filter_champtions()
+    filtered_champions = filter_champions()
     random_champion = get_random_champion(filtered_champions)
     display_champion_icon(random_champion['icon_url'], champ_icon_label)
     champ_info_label.config(text=f"{random_champion['name']}", font=("Helvetica", 14))
@@ -310,18 +305,20 @@ def pick_random_champion():
 
 def display_champion_icon(icon_url, label):
     try:
+        if not icon_url:
+            raise ValueError("No icon URL provided")
+        
         response = requests.get(icon_url)
-        response.raise_for_status()  # Check for errors in fetching the image
+        response.raise_for_status()
         image_data = response.content
-        image = Image.open(io.BytesIO(image_data))
-        image = image.resize((64, 64), Image.Resampling.LANCZOS)
+        image = Image.open(io.BytesIO(image_data)).resize((64, 64), Image.Resampling.LANCZOS)
         photo = ImageTk.PhotoImage(image)
 
         label.config(image=photo)
-        label.image = photo  # Retain reference to avoid garbage collection
+        label.image = photo  # Prevent garbage collection
 
-    except requests.exceptions.RequestException as e:
-        label.config(text=f"Failed to load icon: {e}")
+    except Exception as e:
+        label.config(text="Failed to load icon")
 
 
 # Main application setup
