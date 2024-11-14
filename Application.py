@@ -341,7 +341,6 @@ def save_owned_skins(owned_skins):
         json.dump(owned_skins, file, indent=4)
 
 # Display all skins for each champion, excluding "Original" skins
-# Display all skins for each champion, excluding "Original" skins
 def display_skins(root, champion_data):
     # Clear the current frame before displaying skins
     clear_frame()
